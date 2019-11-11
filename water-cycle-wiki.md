@@ -39,12 +39,12 @@ Within the relatively small range of air temperatures and pressures found at the
 
 ## <h2 id="2">Water cycle in the modern world</h2>
 ### Water distribution
-There are about 1.385 billion $(km)^3$ of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. [Fig. 2](#F2) and Chart 1 provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion $(km) 3$). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 $(km)^3$, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.4 million $(km)^3$ of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million $(km)^3$), but more than half of groundwater is not fresh. 
+There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. [Fig. 2](#F2) and Chart 1 provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion $km 3$). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 $km^3$, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.4 million $km^3$ of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million $km^3$), but more than half of groundwater is not fresh. 
 
 <br/>
 		Chart 1 Estimate of global water distribution 
 
-|Reservoirs |Volume(1000 $(km)^3$)	|Pecentage|
+|Reservoirs |Volume(1000 $km^3$)	|Pecentage|
 |:---:|:---:|:---:|	
 |Oceans, Seas, and Bays	|1,338,000|	96.5
 |Ice Caps, Glaciers, and <br> Permanent Snow	|24,064	|1.74
@@ -58,7 +58,7 @@ There are about 1.385 billion $(km)^3$ of water on Earth, over 96 percent of whi
 |Biological Water|	1.11|	0.0001
 |Total	|1,385,984|	100.0
 
-All the lakes on Earth contain 176 400 $(km)^3$ of water and approximately 16 500 $(km)^3$ of water is stored in the soil (0.04% of total freshwater), while all the rivers of the world carry, on average, in any time instant about 2120 $(km)^3$ of water, being only 0.006% of total freshwater. In contrast, the atmosphere holds only 0.001% (13 000 $(km)^3$) and wetlands about 11 500 $(km)^3$ of water. A small amount of biological water (1120 $(km)^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from Gleick (1996). These values are estimates, and future studies will lead refinement of these values.
+All the lakes on Earth contain 176 400 $km^3$ of water and approximately 16 500 $km^3$ of water is stored in the soil (0.04% of total freshwater), while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water, being only 0.006% of total freshwater. In contrast, the atmosphere holds only 0.001% (13 000 $km^3$) and wetlands about 11 500 $km^3$ of water. A small amount of biological water (1120 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from Gleick (1996). These values are estimates, and future studies will lead refinement of these values.
 
 <span id='F2'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig2.png?raw=true)
 		Fig. 2 Global water distribution.
@@ -74,23 +74,23 @@ Actually, this method, called the rule of balance or equation of conservation of
 Inflow-Outflow=Change of storage
 
 In this article, we will mainly include the most essential hydrological processes in earth surface, that is, the total precipitation, evaporation, runoff and change of storage. Then we can write the surface water balance as:
-$$g_w=P-E-∆f$$
-where g_w is the change of storage of water at and below the surface, P is the precipitation by rain and snow, E is the evaporation and ∆f is the runoff.
+$$g_w=P-E-\Delta f$$
+where $g_w$ is the change of storage of water at and below the surface, P is the precipitation by rain and snow, E is the evaporation and $\Delta f$ is the runoff.
 
 Averaged over a long period of time, the storage term is small. Hydrosphere is a closed system and water takes part in recycling rather than loss and replenishment processes. The resulting hydrologic balance for a long-term average is
-∆f=P-E
+$$\Delta f=P-E$$
 
 To provide readers some ideas about the temporal change of water cycle, a time interval without modern instrumental documentation is chosen, so we used the data from TraCE 21ka modeling results. Since these data come from a climate model, there is some deviation from true values, but it could still show us some features about global water cycle.
 
 ### General picture of global cycle
-To illuminate the general picture of global water cycle, we divide the surface areas into two large reservoirs: continent and ocean ([Fig. 4](#F4)). As stated above, the major water fluxes are evaporation precipitation and runoff. Every year, the amount of water lifted by solar energy is around 493,000 $(km)^3$,, which is equivalent to about a 1-m depth of liquid water spread uniformly over the surface of Earth. 86% of evaporation (i.e., 430 000 $(km)^3$) comes from the oceanic surface and 14% (i.e., 70 000 $(km)^3$) from land. About 90% of the volume of water evaporating from oceans precipitates back onto oceans, while only 10% is transported to areas over land, where it precipitates. About two-thirds of the latter evaporate again and one-third runs off to the ocean. 
+To illuminate the general picture of global water cycle, we divide the surface areas into two large reservoirs: continent and ocean ([Fig. 4](#F4)). As stated above, the major water fluxes are evaporation precipitation and runoff. Every year, the amount of water lifted by solar energy is around 493,000 $km^3$,, which is equivalent to about a 1-m depth of liquid water spread uniformly over the surface of Earth. 83% of evaporation (i.e., 410,000 $km^3$) comes from the oceanic surface and 17% (i.e., 83,000 $km^3$) from land. About 90% of the volume of water evaporating from oceans precipitates back onto oceans, while only 10% is transported to areas over land, where it precipitates. About two-thirds of the latter evaporate again and one-third runs off to the ocean. 
 
 <span id='F4'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure4.jpg?raw=true)
 		Fig. 4 Principle of the water balance between ocean and continent. 
 
 <span id ='C2'>Chart 2 Annual rough hydrologic balance between ocean and continent
 	
-| |P(10^3$(km)^3$) |E(103$(km)^3$)	|P-E(103$(km)^3$)|
+| |P($10^3 km^3$) |E($10^3 km^3$)	|P-E($10^3 km^3$)|
 |:---:|:---:|:---:|	:---:|
 |Globe|493|493|0
 |Continent|123|83|40
