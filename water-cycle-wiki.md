@@ -12,7 +12,7 @@ This article will describe the key processes and concepts in global water cycle,
 
 
  
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<script type='text/javascript' src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default'></script>
 
 ****
 ## Content
