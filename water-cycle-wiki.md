@@ -20,7 +20,8 @@ This article will describe the key processes and concepts in global water cycle,
     * Water distribution
     * The rule for quantitative understanding
     * General picture of global water cycle
-    * Evaporation and precipitation
+    * Evaporation
+    * Precipitation
     * Regional P/E difference 
 * [Water cycle in the past](#3)
     * Last 1000 years: 850-1850AD
@@ -81,3 +82,93 @@ Averaged over a long period of time, the storage term is small. Hydrosphere is a
 To provide readers some ideas about the temporal change of water cycle, a time interval without modern instrumental documentation is chosen, so we used the data from TraCE 21ka modeling results. Since these data come from a climate model, there is some deviation from true values, but it could still show us some features about global water cycle.
 
 ### General picture of global cycle
+To illuminate the general picture of global water cycle, we divide the surface areas into two large reservoirs: continent and ocean ([Fig. 4](#Fif4)). As stated above, the major water fluxes are evaporation precipitation and runoff. Every year, the amount of water lifted by solar energy is around 493,000 km3,, which is equivalent to about a 1-m depth of liquid water spread uniformly over the surface of Earth. 86% of evaporation (i.e., 430 000 km3) comes from the oceanic surface and 14% (i.e., 70 000 km3) from land. About 90% of the volume of water evaporating from oceans precipitates back onto oceans, while only 10% is transported to areas over land, where it precipitates. About two-thirds of the latter evaporate again and one-third runs off to the ocean. 
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure4.jpg?raw=true)
+		<span id='F4'>Fig. 4 Principle of the water balance between ocean and continent. 
+
+<span id ='C2'>Chart 2 Annual rough hydrologic balance between ocean and continent
+| |P(10^3km3) |E(103km3)	|P-E(103km3)|
+|:---:|:---:|:---:|	:---:|
+|Globe|493|493|0
+|Continent|123|83|40
+|Ocean|370|410|-40
+
+Based on these data, we can get the hydrologic balance equations for globe, continent and ocean ([Chart 2](#C2)). From the global scale, the volume of precipitation is equal to that of evaporation. But from continent’s or ocean’s perspective, there is the imbalance between precipitation and evaporation, This kind of difference represents the atmospheric water vapor transport from oceans to land, also being equal to the total runoff of Earth’s rivers and groundwater to the ocean.
+
+This rough division could help us build up a basic idea about water cycle, but at the same time, some key processes are omitted and spatial variation cannot be resolved either. Therefore, in the following texts, we will describe the key elements of water cycle in a coordinate system with smaller defined reservoirs.
+
+### Evaporation
+Evaporation is the removal of water from the surface to the air with an accompanying change in phase from the liquid to the vapor form. You can imagine, the molecules in liquid water are held close together by attractive intermolecular forces (Fig. 5). In water vapor the molecules are much farther apart than in the liquid phase, so the intermolecular force is very much smaller. During evaporation, work is done against the attractive intermolecular force, and energy is absorbed. Therefore, the evaporation rate is generally controlled by the availability of energy at the evaporating surface.The evaporation of water from Earth’s surface accounts for about half of the cooling of the surface that balances the heating by absorption of solar radiation.
+
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure5.jpg?raw=true)
+		<span id='F5'>Fig. 5 Cartoonish diagram showing the molecular exchange between liquid water and atmosphere. <Handbook of Hydrology>
+
+The evaporation we talk about here also contains the process of transpiration, which is the passage of water from plants to the atmosphere through leaf pores called stomata, Water is absorbed from the soil and carried through the roots and stems of plants to the leaves, where it escapes as water vapor. The transpiration contributes around 10 percent of all evaporation.
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/evap_ave_1850_1980.jpg?raw=true)
+		<span id='F6'>Fig. 6 Geographic and zonal distribution of annual mean evaporation.
+
+[Fig. 6](#F6) shows that the global evaporation distribution is roughly zonally oriented, with larger evaporation (>192 cm/year) occurring over the subtropical latitudes of the global oceans and smaller evaporation (<82 cm/year) over the equatorial cold tongues and higher latitudes. As aforementioned, energy is the dominant controlling factor for evaporation, so this zonal distribution feature is easy to understand. It’s also notable that there are some exceptions to this zonal pattern, which all lie in the regions of ocean western boundary in subtropical areas. These anomaly high values are related with the heat carried by these strong currents (like the Gulf Stream off the United States, the Kuroshio off Japan, the Agulhas Current off the African coast et al.). These currents are called western boundary current by scientists and it’s another wonderful story for their formation.
+
+###Precipitation
+
+After evaporation, water vapor can move with air parcel around the world. The amount of vapor that a volume of air can carry can be quantified by Clausius Clapeyron Equation:
+1/e_s   (ⅆe_s)/ⅆT=l_v/(R_v T^2 ) ,
+where e_s is saturation vapor pressure above a liquid surface, l_v is the enthalpy of vaporization (about 2.5×106 J), R_v is the gas constant for water vapor (461.5 J kg–1 K–1), and T is the absolute temperature (in unit K).
+
+This equation tells us that the water vapor loading capacity of air depends on temperature significantly. For terrestrial conditions (l_v/(R_v T) ≈ 20), so that a 1% change in temperature, which is about 3°C, is associated with about a 20% change in saturation vapor pressure. 
+
+When air parcel experiences expansion or cooling, its ability to carry water vapor will decline. In this case, we say the clouds are supersaturate and water vapor will condense on atmospheric particles, forming clouds. The clouds contain countless small drops of condensed water, which are too small to fall as precipitation. For precipitation to happen, first tiny water droplets must condense on even tinier dust, salt, or smoke particles, which act as a nucleus. Water droplets may grow as a result of additional condensation of water vapor when the particles collide. If enough collisions occur to produce a droplet with a fall velocity which exceeds the cloud updraft speed, then it will fall out of the cloud as precipitation. 
+
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_ave_1850_1980.jpg?raw=true)
+		<span id='F7'>Fig. 7  Geographic and zonal distribution of annual mean precipitation.
+
+The general features of the zonal-average precipitation in Fig. 7 are also apparent, with the largest precipitation near the equator, where the average water content of the air is high. In the subtropics convection and precipitation are suppressed by the downward mean air motion that characterizes this region. In these latitudes precipitation is at a minimum. In midlatitudes precipitation increases again because of midlatitude large-scale storm systems. The forced ascent of moist surface air in midlatitude weather systems and the westerly flow over obstacles such as the Rocky Mountains give rise to heavy precipitation. In the polar regions precipitation decreases. The entire hydrologic cycle is slowed down in polar regions because of the low temperatures and consequently low water-carrying capacity of the atmosphere.
+
+####ITCZ and monsoon
+From [Fig. 7](#F7), we see that rainfall on Earth is most intense near the equator. This narrow belt is called intertropical convergence zone (ITCZ). It is a belt of low pressure where the trade winds of the Northern and Southern Hemispheres come together (Fig. 8). As these winds converge, moist air is forced upward, rises and cools, causing water vapor to be "squeezed" out and resulting heavy precipitation. The location of ITCZ migrated seasonally to the warmer hemisphere (Fig. 9). We could imagine that, some tropical zones where ITCZ migrates through annually, will experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/surface_layer_temperature_wind_field_1850_1980.png?raw=true)
+		<span id='F8'>Fig. 8 Mean sea surface temperature distribution map with wind velocity vector superposed. 
+
+During the winter phase of the monsoon, there is a low-level flow of dry, cool air from the cold continent to warmer ocean, and precipitation over the land is light. During summer, there is a flow of atmospheric moisture from the tropical ocean to the warmer land, where the upward motion of the heated air produces the heavy rains of the monsoon season ([Fig. 9](#F9)). The Asian-Australian monsoon system is the most dominant monsoon circulation of the earth and similar but less pronounced monsoon-type circulations also occur over west Africa and portions of Mexico and Central America.
+
+
+
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_1850_1980.png?raw=true)
+		<span id='F9'>Fig. 9 
+
+####Warm pool
+Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest (>28°C, Fig. 8). This area is called Western Pacific Warm Pool. Intensive precipitation and evaporation also take place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is an important source to drive the atmospheric circulation. 
+
+
+###Regional P/E difference
+In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. This P/E difference distribution implies transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
+
+In the zonal direction, it seems that the dominant trend in the Atlantic ocean is the net water loss. To confirm this conjuration, we use other climatic datasets to calculate the surface water balance over the major ocean basins ([Chart 3](#C3)). The results show that there is a negative imbalance of fresh water in the Atlantic region and this imbalance can only be partly compensated by the continental runoff. The vapor loss results in the enrichment of salt in Atlantic Ocean. Fig. 11 shows that, at the same latitudes, Atlantic is saltier than Pacific. Had the salt buildup not been compensated, the Atlantic's salinity would have increased gradually. Obviously, this cannot have been the case. Therefore, there must be some pathway to compensate the freshwater loss and the salt buildup taking place in Atlantic. 
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_minus_evap_ave_1850_1980.png?raw=true)
+		<span id='F10'>Fig. 10 
+
+
+<span id='C3'>Chart 3
+||	P (NASA)	|E	|Continental  discharge[Korzun et al. (1977)]	|offset
+|:---:|:---:|:---:|:---:|:---:|
+|Pacific Ocean	|228.7|	233.7|	14.8|	9.8|
+|Atlantic Ocean|	80|	102.7|	20	|-2.7|
+
+Scientists do find such a pathway. The streamfunction map can tell us the net water flux and direction between any two points in the map. The water flux equates the difference between streamline values and the direction is the right angle from the larger value to smaller one. Fig. 12 shows that, surface Atlantic water (fresher) flows northward and deep part (saltier) southward, and it’s exactly the opposite for the Pacific. 
+
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/moc_1850_1980.jpg?raw=true)
+		<span id='F12'>Fig. 12 Annual-mean streamfunction (Sv) in Atlantic (left) and Pacific (right) ocean averaged over 1850 to 1980 AD.
+
+The water movement in the Atlantic and Pacific is the component of a global-scale circulation, which is called the great ocean conveyor (Fig. 13). The conveyor belt transfers warm water from the Pacific Ocean to the Atlantic as a shallow current and returns cold water from the Atlantic to the Pacific as a deep current that flows further south. Beginning in the central Pacific, it travels past the north coast of Australia and around the southern tip of Africa before moving up into the Atlantic. By the time it arrives the northern Atlantic and passes Europe, the surface water evaporates and the ocean water cools, releasing heat to the atmosphere. As the water becomes colder, it becomes dense and sinks into depth. The deep water slowly travels south through the oceanic abyss, eventually mixing upward to the surface in different parts of the world. The whole process takes 1-2 thousand years.
+
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/F13.jpg?raw=true)
+		<span id='F13'>Fig. 13 The cartoon diagram for depicting great ocean conveyor (Broecker, 1987, illustrated by by Joe Le Monnier, first published in Natural History Magazine).
+
