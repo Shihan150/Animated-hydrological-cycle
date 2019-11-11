@@ -68,7 +68,7 @@ When studying the water cycle, we apply the similar method. For different purpos
 
 Actually, this method, called the rule of balance or equation of conservation of mass, is the most essential, and universal, law guiding the water cycle. It reads, for any fixed reservoirs (pools): 
 
-$$Inflow-Outflow= Change &nbsp of &nbsp storage$$
+$$Inflow-Outflow= Change   of  storage$$
 
 In this article, we will mainly include the most essential hydrological processes in earth surface, that is, the total precipitation, evaporation, runoff and change of storage. Then we can write the surface water balance as:
 $$g_w=P-E-\Delta f$$
