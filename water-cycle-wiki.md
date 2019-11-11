@@ -73,7 +73,7 @@ Actually, this method, called the rule of balance or equation of conservation of
 Inflow-Outflow=Change of storage
 
 In this article, we will mainly include the most essential hydrological processes in earth surface, that is, the total precipitation, evaporation, runoff and change of storage. Then we can write the surface water balance as:
-g_w=P-E-∆f
+$$g_w=P-E-∆f$$
 where g_w is the change of storage of water at and below the surface, P is the precipitation by rain and snow, E is the evaporation and ∆f is the runoff.
 
 Averaged over a long period of time, the storage term is small. Hydrosphere is a closed system and water takes part in recycling rather than loss and replenishment processes. The resulting hydrologic balance for a long-term average is
