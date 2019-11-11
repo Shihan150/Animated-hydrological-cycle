@@ -71,7 +71,7 @@ When studying the water cycle, we apply the similar method. For different purpos
 
 Actually, this method, called the rule of balance or equation of conservation of mass, is the most essential, and universal, law guiding the water cycle. It reads, for any fixed reservoirs (pools): 
 
-$$Inflow-Outflow=Change of storage$$
+$$Inflow-Outflow= Change	of	 storage$$
 
 In this article, we will mainly include the most essential hydrological processes in earth surface, that is, the total precipitation, evaporation, runoff and change of storage. Then we can write the surface water balance as:
 $$g_w=P-E-\Delta f$$
@@ -117,10 +117,10 @@ The evaporation we talk about here also contains the process of transpiration, w
 ### Precipitation
 
 After evaporation, water vapor can move with air parcel around the world. The amount of vapor that a volume of air can carry can be quantified by Clausius Clapeyron Equation:
-$$\frac {1} {e_s}  \frac{de_s)}{T} = \frac{l_v}{(R_v T^2 )$$ ,
-where e_s is saturation vapor pressure above a liquid surface, l_v is the enthalpy of vaporization (about 2.5×106 J), R_v is the gas constant for water vapor (461.5 J kg–1 K–1), and T is the absolute temperature (in unit K).
+$$\frac {1} {e_s}  \frac{de_s)}{T} = \frac{l_v}{(R_v T^2 )}$$ ,
+where $e_s$ is saturation vapor pressure above a liquid surface, $l_v$ is the enthalpy of vaporization (about 2.5×$10^6$ J), $R_v$ is the gas constant for water vapor (461.5 J kg–1 K–1), and T is the absolute temperature (in unit K).
 
-This equation tells us that the water vapor loading capacity of air depends on temperature significantly. For terrestrial conditions (l_v/(R_v T) ≈ 20), so that a 1% change in temperature, which is about 3°C, is associated with about a 20% change in saturation vapor pressure. 
+This equation tells us that the water vapor loading capacity of air depends on temperature significantly. For terrestrial conditions ($\frac {l_v}{(R_v T} ≈ 20), so that a 1% change in temperature, which is about 3°C, is associated with about a 20% change in saturation vapor pressure. 
 
 When air parcel experiences expansion or cooling, its ability to carry water vapor will decline. In this case, we say the clouds are supersaturate and water vapor will condense on atmospheric particles, forming clouds. The clouds contain countless small drops of condensed water, which are too small to fall as precipitation. For precipitation to happen, first tiny water droplets must condense on even tinier dust, salt, or smoke particles, which act as a nucleus. Water droplets may grow as a result of additional condensation of water vapor when the particles collide. If enough collisions occur to produce a droplet with a fall velocity which exceeds the cloud updraft speed, then it will fall out of the cloud as precipitation. 
 
