@@ -33,8 +33,7 @@ As you can imagine, water is everywhere. Actually, around half of your body weig
 
 Within the relatively small range of air temperatures and pressures found at the Earth’s surface, water is the only known substance that can naturally exist in three phases: as a gas, a liquid, and solid ([Fig. 1](#F1)). When water undergoes phase changes, it’s accompanied by energy transfer. Plus the large heat capacity, water acts as the thermostat for the surface earth: prevent it from extreme coldness or warmth. Earth's water is always in movement, and now, this article hopes to give you some insights about the journey of water in a relatively scientific and quantitative way.
 
-<span id='F1'>
-![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure1.jpg?raw=true)
+<span id='F1'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure1.jpg?raw=true)
 		Fig. 1 Diagrams of water transitions between solid, liquid, and gaseous phases and accompanied energy absorption or release
 
 ## <h2 id="2">Water cycle in the modern world</h2>
