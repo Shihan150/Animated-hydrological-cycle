@@ -62,7 +62,7 @@ All the lakes on Earth contain 176 400 $km^3$ of water and approximately 16 500 
 		
 
 ### The rule for quantitative understanding
-First let’s imagine a water pool which has an inlet and outlet ([Fig. 3](#F3)). After a time interval ($\delta t$), the volume change of the pool only depends on the inflow and outflow through the inlet and outlet respectively. In this way, we could deal with the pool as a black box, only focusing on the boundary processes related with input and output while processes inside the pool being neglected. Such a pool is called reservoir or storage, and the inflow and outflow are called influx.
+First let’s imagine a water pool which has an inlet and outlet ([Fig. 3](#F3)). After a time interval ($\Delta t$), the volume change of the pool only depends on the inflow and outflow through the inlet and outlet respectively. In this way, we could deal with the pool as a black box, only focusing on the boundary processes related with input and output while processes inside the pool being neglected. Such a pool is called reservoir or storage, and the inflow and outflow are called influx.
 
 When studying the water cycle, we apply the similar method. For different purposes we can define the reservoir of different size and the number of ‘inlets’ and ‘outlets’ will vary correspondingly. Let’s take the ocean for an example. From a global scale, we can mainly focus on the water exchange with atmosphere through evaporation and precipitation, with continents through river runoff and groundwater processes and also with ocean floor. The last one takes place in a much longer timescale, so it will not be discussed here. But from a regional scale, for instance water cycle in a continental sea, besides the aforementioned elements, the exchange with adjunct ocean areas by current must also be taken into account.
 
@@ -115,7 +115,7 @@ The evaporation we talk about here also contains the process of transpiration, w
 
 After evaporation, water vapor can move with air parcel around the world. The amount of vapor that a volume of air can carry can be quantified by Clausius Clapeyron Equation:
 $$\frac {1} {e_s}  \frac{de_s}{T} = \frac{l_v}{R_v T^2 }$$ ,
-where $e_s$ is saturation vapor pressure above a liquid surface, $l_v$ is the enthalpy of vaporization (about 2.5×$10^6$ J), $R_v$ is the gas constant for water vapor (461.5 J $kg^–1 K^–1$), and T is the absolute temperature (in unit K).
+where $e_s$ is saturation vapor pressure above a liquid surface, $l_v$ is the enthalpy of vaporization (about 2.5×$10^6$ J), $R_v$ is the gas constant for water vapor (461.5 J $kg^(–1) K^(–1)$), and T is the absolute temperature (in unit K).
 
 This equation tells us that the water vapor loading capacity of air depends on temperature significantly. For terrestrial conditions ($\frac {l_v}{(R_v T}$ ≈ 20), so that a 1% change in temperature, which is about 3°C, is associated with about a 20% change in saturation vapor pressure. 
 
