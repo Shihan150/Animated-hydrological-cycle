@@ -13,6 +13,12 @@ This article will describe the key processes and concepts in global water cycle,
  
 <script type='text/javascript' src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default'></script>
 
+
+
+[TOC]
+
+---
+
 ****
 ## Content
 * [Introduction](#1)
@@ -84,8 +90,8 @@ To provide readers some ideas about the temporal change of water cycle, a time i
 ### General picture of global cycle
 To illuminate the general picture of global water cycle, we divide the surface areas into two large reservoirs: continent and ocean ([Fig. 4](#F4)). As stated above, the major water fluxes are evaporation precipitation and runoff. Every year, the amount of water lifted by solar energy is around 493,000 km3,, which is equivalent to about a 1-m depth of liquid water spread uniformly over the surface of Earth. 86% of evaporation (i.e., 430 000 km3) comes from the oceanic surface and 14% (i.e., 70 000 km3) from land. About 90% of the volume of water evaporating from oceans precipitates back onto oceans, while only 10% is transported to areas over land, where it precipitates. About two-thirds of the latter evaporate again and one-third runs off to the ocean. 
 
-![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure4.jpg?raw=true)
-		<span id='F4'>Fig. 4 Principle of the water balance between ocean and continent. 
+<span id='F4'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure4.jpg?raw=true)
+		Fig. 4 Principle of the water balance between ocean and continent. 
 
 <span id ='C2'>Chart 2 Annual rough hydrologic balance between ocean and continent
 	
