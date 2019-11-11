@@ -38,7 +38,7 @@ Within the relatively small range of air temperatures and pressures found at the
 
 ## <h2 id="2">Water cycle in the modern world</h2>
 ### Water distribution
-$a + b$ There are about 1.385 billion km3 of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. Fig. 2 and Chart 1 provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion km3). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 km3, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.4 million km3 of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million km3), but more than half of groundwater is not fresh. 
+There are about 1.385 billion km3 of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. Fig. 2 and Chart 1 provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion km3). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 km3, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.4 million km3 of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million km3), but more than half of groundwater is not fresh. 
 
 <br/>
 		Chart 1 Estimate of global water distribution 
@@ -88,6 +88,7 @@ To illuminate the general picture of global water cycle, we divide the surface a
 		<span id='F4'>Fig. 4 Principle of the water balance between ocean and continent. 
 
 <span id ='C2'>Chart 2 Annual rough hydrologic balance between ocean and continent
+	
 | |P(10^3km3) |E(103km3)	|P-E(103km3)|
 |:---:|:---:|:---:|	:---:|
 |Globe|493|493|0
@@ -112,7 +113,7 @@ The evaporation we talk about here also contains the process of transpiration, w
 
 [Fig. 6](#F6) shows that the global evaporation distribution is roughly zonally oriented, with larger evaporation (>192 cm/year) occurring over the subtropical latitudes of the global oceans and smaller evaporation (<82 cm/year) over the equatorial cold tongues and higher latitudes. As aforementioned, energy is the dominant controlling factor for evaporation, so this zonal distribution feature is easy to understand. It’s also notable that there are some exceptions to this zonal pattern, which all lie in the regions of ocean western boundary in subtropical areas. These anomaly high values are related with the heat carried by these strong currents (like the Gulf Stream off the United States, the Kuroshio off Japan, the Agulhas Current off the African coast et al.). These currents are called western boundary current by scientists and it’s another wonderful story for their formation.
 
-###Precipitation
+### Precipitation
 
 After evaporation, water vapor can move with air parcel around the world. The amount of vapor that a volume of air can carry can be quantified by Clausius Clapeyron Equation:
 1/e_s   (ⅆe_s)/ⅆT=l_v/(R_v T^2 ) ,
@@ -123,12 +124,12 @@ This equation tells us that the water vapor loading capacity of air depends on t
 When air parcel experiences expansion or cooling, its ability to carry water vapor will decline. In this case, we say the clouds are supersaturate and water vapor will condense on atmospheric particles, forming clouds. The clouds contain countless small drops of condensed water, which are too small to fall as precipitation. For precipitation to happen, first tiny water droplets must condense on even tinier dust, salt, or smoke particles, which act as a nucleus. Water droplets may grow as a result of additional condensation of water vapor when the particles collide. If enough collisions occur to produce a droplet with a fall velocity which exceeds the cloud updraft speed, then it will fall out of the cloud as precipitation. 
 
 
-![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_ave_1850_1980.jpg?raw=true)
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_ave_1850_1980.png?raw=true)
 		<span id='F7'>Fig. 7  Geographic and zonal distribution of annual mean precipitation.
 
 The general features of the zonal-average precipitation in Fig. 7 are also apparent, with the largest precipitation near the equator, where the average water content of the air is high. In the subtropics convection and precipitation are suppressed by the downward mean air motion that characterizes this region. In these latitudes precipitation is at a minimum. In midlatitudes precipitation increases again because of midlatitude large-scale storm systems. The forced ascent of moist surface air in midlatitude weather systems and the westerly flow over obstacles such as the Rocky Mountains give rise to heavy precipitation. In the polar regions precipitation decreases. The entire hydrologic cycle is slowed down in polar regions because of the low temperatures and consequently low water-carrying capacity of the atmosphere.
 
-####ITCZ and monsoon
+#### ITCZ and monsoon
 From [Fig. 7](#F7), we see that rainfall on Earth is most intense near the equator. This narrow belt is called intertropical convergence zone (ITCZ). It is a belt of low pressure where the trade winds of the Northern and Southern Hemispheres come together (Fig. 8). As these winds converge, moist air is forced upward, rises and cools, causing water vapor to be "squeezed" out and resulting heavy precipitation. The location of ITCZ migrated seasonally to the warmer hemisphere (Fig. 9). We could imagine that, some tropical zones where ITCZ migrates through annually, will experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
 
 ![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/surface_layer_temperature_wind_field_1850_1980.png?raw=true)
@@ -142,11 +143,11 @@ During the winter phase of the monsoon, there is a low-level flow of dry, cool a
 ![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_1850_1980.png?raw=true)
 		<span id='F9'>Fig. 9 
 
-####Warm pool
+#### Warm pool
 Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest (>28°C, Fig. 8). This area is called Western Pacific Warm Pool. Intensive precipitation and evaporation also take place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is an important source to drive the atmospheric circulation. 
 
 
-###Regional P/E difference
+### Regional P/E difference
 In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. This P/E difference distribution implies transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
 
 In the zonal direction, it seems that the dominant trend in the Atlantic ocean is the net water loss. To confirm this conjuration, we use other climatic datasets to calculate the surface water balance over the major ocean basins ([Chart 3](#C3)). The results show that there is a negative imbalance of fresh water in the Atlantic region and this imbalance can only be partly compensated by the continental runoff. The vapor loss results in the enrichment of salt in Atlantic Ocean. Fig. 11 shows that, at the same latitudes, Atlantic is saltier than Pacific. Had the salt buildup not been compensated, the Atlantic's salinity would have increased gradually. Obviously, this cannot have been the case. Therefore, there must be some pathway to compensate the freshwater loss and the salt buildup taking place in Atlantic. 
@@ -156,6 +157,7 @@ In the zonal direction, it seems that the dominant trend in the Atlantic ocean i
 
 
 <span id='C3'>Chart 3
+	
 ||	P (NASA)	|E	|Continental  discharge[Korzun et al. (1977)]	|offset
 |:---:|:---:|:---:|:---:|:---:|
 |Pacific Ocean	|228.7|	233.7|	14.8|	9.8|
@@ -172,3 +174,4 @@ The water movement in the Atlantic and Pacific is the component of a global-scal
 ![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/F13.jpg?raw=true)
 		<span id='F13'>Fig. 13 The cartoon diagram for depicting great ocean conveyor (Broecker, 1987, illustrated by by Joe Le Monnier, first published in Natural History Magazine).
 
+## <h2 id="3">Water cycle in the past</h2>
