@@ -175,3 +175,12 @@ The water movement in the Atlantic and Pacific is the component of a global-scal
 		<span id='F13'>Fig. 13 The cartoon diagram for depicting great ocean conveyor (Broecker, 1987, illustrated by by Joe Le Monnier, first published in Natural History Magazine).
 
 ## <h2 id="3">Water cycle in the past</h2>
+
+An important task for geoscientists is to look into the past and find how our earth evolves gradually. In this chapter we will see the features of water cycle during last 1000 years and Last Glacial Maximum (LGM).
+
+### Last 1000 years: 850-1850AD
+Some regional drought or flood events can be identified during 850-1850 AD from Fig. 14&15, however, from a larger scale, the hydrologic cycle is almost same as that in modern world.
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_last_1ka_with_zonal.gif?raw=true)
+		<span id='F14'>Fig. 14
+### Last glacial maximum
+21,000 years ago, Earth’s surface was totally different from its current appearance (Fig. 12). The mean global surface temperature was around 3-4°C lower (Shakun et al. 2012). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
