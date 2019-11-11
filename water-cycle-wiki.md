@@ -7,9 +7,8 @@ This article will describe the key processes and concepts in global water cycle,
 |:---:|:---:	
 |Author|Shihan Li|
 |E-mail|shihan@uni-bremen.de
-|Advisor|Dr.André Paul
+|Advisor|Dr. André Paul
 |Institution|Geoscience faculty, Universitaet Bremen
-
 
  
 <script type='text/javascript' src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default'></script>
@@ -59,7 +58,7 @@ $a + b$ There are about 1.385 billion km3 of water on Earth, over 96 percent of 
 
 All the lakes on Earth contain 176 400 km3 of water and approximately 16 500 km3 of water is stored in the soil (0.04% of total freshwater), while all the rivers of the world carry, on average, in any time instant about 2120 km3 of water, being only 0.006% of total freshwater. In contrast, the atmosphere holds only 0.001% (13 000 km3) and wetlands about 11 500 km3 of water. A small amount of biological water (1120 km3) remains fixed in the living tissues of plants and animals. All the data cited here are taken from Gleick (1996). These values are estimates, and future studies will lead refinement of these values.
 
-![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure2.jpg?raw=true)
+![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig2.png?raw=true)
 		Fig. 2 Global water distribution.
 		
 
