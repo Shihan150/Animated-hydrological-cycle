@@ -13,7 +13,7 @@ This article will describe the key processes and concepts in global water cycle,
 ****
 ## Content
 * [Introduction](#Introduction)
-* [Water cycle in modern world](#Water cycle in modern world)
+* [Water cycle in the modern world](#Watercycleinthemodernworld)
     * Water distribution
     * The rule for quantitative understanding
     * General picture of global water cycle
@@ -32,7 +32,7 @@ Within the relatively small range of air temperatures and pressures found at the
 ![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure1.jpg?raw=true)
 		Fig. 1 Diagrams of water transitions between solid, liquid, and gaseous phases and accompanied energy absorption or release
 
-## Water cycle in modern world
+## Water cycle in the modern world
 ### Water distribution
 There are about 1.385 billion km3 of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. Fig. 2 and Chart 1 provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion km3). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 km3, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.4 million km3 of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million km3), but more than half of groundwater is not fresh. 
 
