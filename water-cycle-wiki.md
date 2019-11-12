@@ -9,7 +9,7 @@ This article will describe the key processes and concepts in global water cycle,
 |E-mail|shihan@uni-bremen.de
 |Advisor|Dr. André Paul
 |Institution|Geoscience faculty, Universitaet Bremen
-|major data source| [TraCE-21ka] [^1](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka')
+|major data source| [TraCE-21ka](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka')
 
 
 ****
@@ -28,7 +28,7 @@ Within the relatively small range of air temperatures and pressures found at the
 There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. [Fig. 2](#F2) and Chart 1 provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion $km^3$). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 $km^3$, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.4 million $km^3$ of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million $km^3$), but more than half of groundwater is not fresh. 
 
 <br/>
-		*Chart 1 Estimate of global water distribution*
+		Chart 1 Estimate of global water distribution
 
 |Reservoirs |Volume(1000 $km^3$)	|Pecentage|
 |:---:|:---:|:---:|	
@@ -95,7 +95,7 @@ Evaporation is the removal of water from the surface to the air with an accompan
 
 The evaporation we talk about here also contains the process of transpiration, which is the passage of water from plants to the atmosphere through leaf pores called stomata, Water is absorbed from the soil and carried through the roots and stems of plants to the leaves, where it escapes as water vapor. The transpiration contributes around 10 percent of all evaporation.
 
-<span id='F6'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/evap_ave_1850_1980.jpg?raw=true)
+<span id='F6'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figuresevap_annual_seasonal_zonal_1850_1980.png?raw=true)
 		Fig. 6 Geographic and zonal distribution of annual mean evaporation.
 
 [Fig. 6](#F6) shows that the global evaporation distribution is roughly zonally oriented, with larger evaporation (>192 cm/year) occurring over the subtropical latitudes of the global oceans and smaller evaporation (<82 cm/year) over the equatorial cold tongues and higher latitudes. As aforementioned, energy is the dominant controlling factor for evaporation, so this zonal distribution feature is easy to understand. It’s also notable that there are some exceptions to this zonal pattern, which all lie in the regions of ocean western boundary in subtropical areas. These anomaly high values are related with the heat carried by these strong currents (like the Gulf Stream off the United States, the Kuroshio off Japan, the Agulhas Current off the African coast et al.). These currents are called western boundary current by scientists and it’s another wonderful story for their formation.
@@ -130,17 +130,19 @@ During the winter phase of the monsoon, there is a low-level flow of dry, cool a
 <span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_1850_1980.png?raw=true)
 		Fig. 9 
 
-		#### Warm pool
-		Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest 			(>28°C, [Fig. 8](#F8)). This area is called Western Pacific Warm Pool. Intensive precipitation and evaporation also take 		place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is 		an important source to drive the atmospheric circulation. 
+#### Warm pool
+Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest 			(>28°C, [Fig. 8](#F8)). This area is called Western Pacific Warm Pool. Intensive precipitation and evaporation also take 		place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is 		an important source to drive the atmospheric circulation. 
 
 
 ### Regional P/E difference
 In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. This P/E difference distribution implies transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
-
-In the zonal direction, it seems that the dominant trend in the Atlantic ocean is the net water loss. To confirm this conjuration, we use other climatic datasets to calculate the surface water balance over the major ocean basins ([Chart 3](#C3)). The results show that there is a negative imbalance of fresh water in the Atlantic region and this imbalance can only be partly compensated by the continental runoff. The vapor loss results in the enrichment of salt in Atlantic Ocean. Fig. 11 shows that, at the same latitudes, Atlantic is saltier than Pacific. Had the salt buildup not been compensated, the Atlantic's salinity would have increased gradually. Obviously, this cannot have been the case. Therefore, there must be some pathway to compensate the freshwater loss and the salt buildup taking place in Atlantic. 
-
 <span id='F10'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_minus_evap_ave_1850_1980.png?raw=true)
 		Fig. 10 
+
+In the zonal direction, it seems that the dominant trend in the Atlantic ocean is the net water loss. To confirm this conjuration, we use other climatic datasets to calculate the surface water balance over the major ocean basins ([Chart 3](#C3)). The results show that there is a negative imbalance of fresh water in the Atlantic region and this imbalance can only be partly compensated by the continental runoff. The vapor loss results in the enrichment of salt in Atlantic Ocean. [Fig. 11](#F11) shows that, at the same latitudes, Atlantic is saltier than Pacific. Had the salt buildup not been compensated, the Atlantic's salinity would have increased gradually. Obviously, this cannot have been the case. Therefore, there must be some pathway to compensate the freshwater loss and the salt buildup taking place in Atlantic. 
+
+<span id='F11'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/salinity_ave_1850_1980.png?raw=true)
+		Fig. 11 
 
 
 <span id='C3'>Chart 3  Water budget for different ocean basins
