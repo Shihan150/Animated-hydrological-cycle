@@ -165,12 +165,35 @@ The water movement in the Atlantic and Pacific is the component of a global-scal
 An important task for geoscientists is to look into the past and find how our earth evolves gradually. In this chapter we will see the features of water cycle during last 1000 years and Last Glacial Maximum (LGM).
 
 ### Last 1000 years: 850-1850AD
-Some regional drought or flood events can be identified during 850-1850 AD from Fig. 14&15, however, from a larger scale, the hydrologic cycle is almost same as that in modern world.
+Some regional drought or flood events can be identified during 850-1850 AD from [Fig. 14&15](#F14), however, from a larger scale, the hydrologic cycle is almost same as that in modern world.
 <span id='F14'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_last_1ka_with_zonal.gif?raw=true)
 		Fig. 14
 <span id='F15'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_last_1ka_with_zonal.gif?raw=true)
 		Fig. 15
 ### Last glacial maximum
-21,000 years ago, Earth’s surface was totally different from its current appearance (Fig. 12). The mean global surface temperature was around 3-4°C lower (Shakun et al. 2012). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
+21,000 years ago, Earth’s surface was totally different from its current appearance. The mean global surface temperature was around 3-4°C lower (Shakun et al. 2012). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
 	
+#### General cycle
+Similarly, let’s look at the general picture of global water cycle during LGM at first. Compared to modern world, the annual global precipitation and evaporation are around 8% lower. That means, the water cycle at that time took place at a slower velocity. The drop is mainly attributed to the changes in the ocean: annual evaporation in the ocean decreases from 410 to 377 〖(10〗^3 〖km〗^3). More than 90% of the evaporating water from oceans precipitates back onto oceans. While for the land, the volume of evaporation and precipitation is almost the same as that in modern world. 
+
+<center>Chart 4 Annual rough hydrologic balance during LGM</center>
+|	|P($10^3 km^3/year$)	|E($10^3 km^3/year$)	|P-E($10^3 km^3/year$)
+|:---:|:---:|:---:|:---:|
+|Globe	|455	|455	|0|
+|Continent	|123	|78	|45
+|Ocean	|332	|377	|-45
+
+#### Spatial and temporal characters
+Fig.16b and 17b shows that during LGM, the geographic distribution of evaporation and precipitation shares similar zonal features as that in modern world. Generally, for evaporation, the reduction can be seen in every latitude, with maximum in the tropical and subpolar zones and minimum in the subtropical and polar areas. The evaporation increase can be observed in ocean western boundary in subtropical areas and northern subpolar Pacific and Atlantic. In northern Atlantic and Pacific, extreme decrease occurs between two zones with evaporation increase: subtropical ocean western boundary and subpolar zones. 
+
+For precipitation major decrease takes place in the low (10ºN-10ºS) and then high latitudes (>40°), while in the other zones, the value almost keeps same as that in modern world. A small increase even can be seen in the southern subtropical areas. The most distinguished precipitation change takes place in the tropical Pacific ocean, where western and middle part experience the largest decrease and the eastern part the largest increase.  
+
+<span id='F16'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_difference_LGM_to_modern_with_zonal.gif?raw=true)
+		Fig. 16
+<span id='F17'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_LGM_modern_difference_with_zonal.gif?raw=true)
+		Fig. 17
+	
+Seasonal character
+<span id='F18'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_seasonal_lgm_modern_difference_with_zonal.gif?raw=true)
+		Fig. 18
 
