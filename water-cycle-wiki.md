@@ -129,8 +129,8 @@ During the winter phase of the monsoon, there is a low-level flow of dry, cool a
 <span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_1850_1980.png?raw=true)
 		Fig. 9 
 
-#### Warm pool
-Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest (>28°C, [Fig. 8](#F8)). This area is called Western Pacific Warm Pool. Intensive precipitation and evaporation also take place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is an important source to drive the atmospheric circulation. 
+		#### Warm pool
+		Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest 			(>28°C, [Fig. 8](#F8)). This area is called Western Pacific Warm Pool. Intensive precipitation and evaporation also take 		place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is 		an important source to drive the atmospheric circulation. 
 
 
 ### Regional P/E difference
@@ -168,5 +168,9 @@ An important task for geoscientists is to look into the past and find how our ea
 Some regional drought or flood events can be identified during 850-1850 AD from Fig. 14&15, however, from a larger scale, the hydrologic cycle is almost same as that in modern world.
 <span id='F14'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_last_1ka_with_zonal.gif?raw=true)
 		Fig. 14
+<span id='F15'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_last_1ka_with_zonal.gif?raw=true)
+		Fig. 15
 ### Last glacial maximum
 21,000 years ago, Earth’s surface was totally different from its current appearance (Fig. 12). The mean global surface temperature was around 3-4°C lower (Shakun et al. 2012). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
+	
+
