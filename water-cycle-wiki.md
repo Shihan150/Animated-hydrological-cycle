@@ -12,21 +12,9 @@ This article will describe the key processes and concepts in global water cycle,
 
 
 ****
-## Content
-* [Introduction](#1)
-* [Water cycle in the modern world](#2)
-    * Water distribution
-    * The rule for quantitative understanding
-    * General picture of global water cycle
-    * Evaporation
-    * Precipitation
-    * Regional P/E difference 
-* [Water cycle in the past](#3)
-    * Last 1000 years: 850-1850AD
-    * Last glacial maximum
-_ _ _
 
-## <h2 id="1">Introduction</h2>
+
+## Introduction
 As you can imagine, water is everywhere. Actually, around half of your body weight is composed of water. In natural world, water the main substance in the oceans. It also exists in the air as water vapor, in rivers and lakes, in icecaps and glaciers, in the ground as soil moisture and in aquifers, and you even could find water in rocks. Water is such a common stuff in our daily life that we may forget its importance sometimes. It’s easy to understand that water is essential for living body to function well and keep alive, but have you ever imagined that water even exerts a profound influence in climate system? In fact, water is so special and our earth would not be habitable without its existence. <br>
 
 Within the relatively small range of air temperatures and pressures found at the Earth’s surface, water is the only known substance that can naturally exist in three phases: as a gas, a liquid, and solid ([Fig. 1](#F1)). When water undergoes phase changes, it’s accompanied by energy transfer. Plus the large heat capacity, water acts as the thermostat for the surface earth: prevent it from extreme coldness or warmth. Earth's water is always in movement, and now, this article hopes to give you some insights about the journey of water in a relatively scientific and quantitative way.
@@ -34,7 +22,7 @@ Within the relatively small range of air temperatures and pressures found at the
 <span id='F1'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure1.jpg?raw=true)
 		Fig. 1 Diagrams of water transitions between solid, liquid, and gaseous phases and accompanied energy absorption or release
 
-## <h2 id="2">Water cycle in the modern world</h2>
+## Water cycle in the modern world
 ### Water distribution
 There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. [Fig. 2](#F2) and Chart 1 provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion $km^3$). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 $km^3$, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.4 million $km^3$ of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million $km^3$), but more than half of groundwater is not fresh. 
 
@@ -172,7 +160,7 @@ The water movement in the Atlantic and Pacific is the component of a global-scal
 <span id='F13'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/F13.jpg?raw=true)
 		Fig. 13 The cartoon diagram for depicting great ocean conveyor (Broecker, 1987, illustrated by by Joe Le Monnier, first published in Natural History Magazine).
 
-## <h2 id="3">Water cycle in the past</h2>
+## Water cycle in the past
 
 An important task for geoscientists is to look into the past and find how our earth evolves gradually. In this chapter we will see the features of water cycle during last 1000 years and Last Glacial Maximum (LGM).
 

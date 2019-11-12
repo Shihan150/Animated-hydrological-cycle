@@ -1,4 +1,4 @@
-<center>诶嘿
+<center>居中对齐</center>
 
 ----
 
