@@ -59,7 +59,7 @@ prect_djf_zonal = np.mean(prect_djf_interval_ave, axis = 1)
         
 upper_limitation = 400
 
-fig = plt.figure(figsize = (24,12))
+fig = plt.figure(figsize = (30,15))
 
 #plot ax1, average jja precipitation in 1850-1980
 ax1 = fig.add_subplot(221, projection=ccrs.PlateCarree())
@@ -159,10 +159,10 @@ djf = ax2.quiver(lon_uv[::4],lat_uv[0:48:2],
               #scale_units = 'width',width=0.007
               
 
-ax1.quiverkey(jja, 0.83, 0.89, 10, r'10m/s', labelpos='E', fontproperties={'size': 16},
+ax1.quiverkey(jja, 0.5, 0.89, 10, r'10m/s', labelpos='E', fontproperties={'size': 16},
                    coordinates='figure')
-ax2.quiverkey(djf, 0.83, 0.62, 10, r'10m/s', labelpos='E', fontproperties={'size': 16},
-                   coordinates='figure')
+#ax2.quiverkey(djf, 0.83, 0.62, 10, r'10m/s', labelpos='E', fontproperties={'size': 16},
+#                   coordinates='figure')
 
 #plot ax3, JJA-DJF
 ax3 = fig.add_subplot(223,projection = ccrs.PlateCarree())
