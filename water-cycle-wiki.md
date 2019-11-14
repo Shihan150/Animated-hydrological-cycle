@@ -10,7 +10,7 @@ This article will describe the key processes and concepts in global water cycle,
 |Advisor|Dr. André Paul
 |Institution|Geoscience faculty, Universitaet Bremen
 
-> Unless stated otherwise, all data from [TraCE-21ka Simulation](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka') results
+> Unless stated otherwise, all data from or calculated from [TraCE-21ka Simulation](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka') results
 
 
 ****
@@ -29,7 +29,7 @@ Within the relatively small range of air temperatures and pressures found at the
 There are about 1.385 billion km3 of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. [Fig. 2](#F2) and [Chart 1](#C1) provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion km3). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 km3, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.1 million km3 of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million km3), but more than half of groundwater is not fresh. 
 
 <br/>
-		<span id='C1'>Chart 1 Estimate of global water distribution[$^1$](#R1)
+       <span id='C1'>Chart 1 Estimate of global water distribution[$^1$](#R1)
 
 |Reservoirs |Volume(1000 $km^3$)	|Pecentage|
 |:---:|:---:|:---:|	
@@ -49,8 +49,7 @@ All the lakes on Earth contain 176,400 km3 of water and approximately 16,500 km3
 . These values are estimates, and future studies will lead refinement of these values.
 
 <span id='F2'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig2.png?raw=true)
-		Fig. 2 Global water distribution[$^1$](#R1)
-. The arrows betoken that the elements in the next panel constitute the other reservoirs in the previous one.
+		Fig. 2 Global water distribution[$^1$](#R1). The arrows betoken that the elements in the next panel constitute the other reservoirs in the previous one.
 		
 
 ### The rule for quantitative understanding
@@ -66,7 +65,7 @@ In this article, we will primarily include the most essential hydrological proce
 $$g_w=P-E-\Delta f$$
 where $g_w$ is the change of storage of water at and below the surface, P is the precipitation by rain and snow, E is the evaporation and $\Delta f$ is the runoff.
 
-Averaged over a long period of time, the storage term is small. Hydrosphere is a closed system and water takes part in recycling rather than loss and replenishment processes. The resulting hydrologic balance for a long-term average is
+Averaged over a long period of time, the storage term is small. Hydrosphere is a closed system and water takes part in recycling rather than loss and replenishment processes. The resulting hydrologic balance for a long-term average is:
 $$\Delta f=P-E$$
 
 To provide readers some ideas about the temporal change of water cycle, a time interval without modern instrumental documentation is chosen, so we used the data from TraCE 21ka modeling results. Since these data come from a climate model, some uncertainty and deviation true values exist inevitably, but it could still show us features about the key processes during the global water cycle.
@@ -92,15 +91,16 @@ Based on these data, we can get the hydrologic balance equations for globe, cont
 This rough division could help us build up a basic idea about water cycle, but at the same time, some key processes are omitted and spatial variation cannot be resolved either. Therefore, in the following texts, we will describe the key elements of water cycle in a coordinate system with smaller defined reservoirs.
 
 ### Evaporation
-Evaporation is the removal of water from the surface to the air with an accompanying change in phase from the liquid to the vapor form. You can imagine, the molecules in liquid water are held close together by attractive intermolecular forces ([Fig. 5](F5)). In water vapor the molecules are much farther apart than in the liquid phase, so the intermolecular force is very much smaller. During evaporation, work is done against the attractive intermolecular force, and energy is absorbed. Therefore, the evaporation rate is generally controlled by the availability of energy at the evaporating surface. Besides, the difference of water vapor pressure between the water surface and the adjacent air can also influence the evaporation rate. If the adjacent air is relatively drier, the condensation rate will decrease and net evaporation increase correspondingly. One of the climatic meaning for this process is that it accounts for about half of the cooling of the surface that balances the heating by absorption of solar radiation.
+Evaporation is the removal of water from the surface to the air with an accompanying change in phase from the liquid to the vapor form. You can imagine, the molecules in liquid water are held close together by attractive intermolecular forces ([Fig. 5](F5)). In water vapor the molecules are much farther apart than in the liquid phase, so the intermolecular force is very much smaller. During evaporation, work is done against the attractive intermolecular force, and energy is absorbed. Therefore, the evaporation rate is generally controlled by the availability of energy at the evaporating surface. Besides, the difference of water vapor pressure between the water surface and the adjacent air can also influence the evaporation rate. If the adjacent air is relatively drier, the condensation rate will decrease and net evaporation increase correspondingly. One of the climatic meaning for evaporation is that it accounts for about half of the cooling of the surface that balances the heating by absorption of solar radiation.
 
 ![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure5.jpg?raw=true)
-		<span id='F5'>Fig. 5 Cartoonish diagram showing the molecular exchange between liquid water and atmosphere. <Handbook of Hydrology>
+		<span id='F5'>Fig. 5 Cartoonish diagram showing the molecular exchange between liquid water and atmosphere[$^2$](#R2)
+. 
 
-[Fig. 6a&b](#F6) shows that the global evaporation distribution is roughly zonally oriented, with larger evaporation (>181 cm/year) occurring over the subtropical latitudes of the global oceans and smaller evaporation (<89 cm/year) over the equatorial cold tongues and higher latitudes. As aforementioned, energy is the dominant controlling factor for evaporation, so this zonal distribution feature is easy to understand. It’s also notable that there are some exceptions to this zonal pattern, which all lie in the regions of ocean western boundary in subtropical areas. These anomaly high values are related with the heat carried by these strong currents (like the Gulf Stream off the United States, the Kuroshio off Japan, the Agulhas Current off the African coast et al.). These currents are called western boundary current by scientists and it’s another wonderful story for their formation. Another exception is the eastern tropical Pacific, where the evaporation rate is lower than other areas at the same latitudes. 
+[Fig. 6a&b](#F6) shows that the global evaporation distribution is roughly zonally oriented, with larger evaporation (>181 cm/year) occurring over the subtropical latitudes of the global oceans and smaller evaporation (<89 cm/year) over the equatorial cold tongues and higher latitudes. As aforementioned, energy is the dominant controlling factor for evaporation, so this zonal distribution feature is easy to understand. It’s also notable that there are some exceptions to this zonal pattern, which all lie in the regions of ocean western boundary in subtropical areas. These anomaly high values are related with the heat carried by these strong currents (like the Gulf Stream off the United States, the Kuroshio off Japan, the Agulhas Current off the African coast et al.). These currents are called western boundary current by scientists and it’s another wonderful story for their formation[$^3$](#R3). Another exception is the eastern tropical Pacific, where the evaporation rate is lower than other areas at the same latitudes. 
 
 <span id='F6'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/evap_annual_seasonal_zonal_1850_1980.png?raw=true)
-		Fig. 6 Geographic and zonal distribution of annual mean evaporation.
+		Fig. 6 Geographic and zonal distribution of annual mean evaporation. More yellowish colors indicate the larger value and more bluish colors the smaller one. This colormap pattern apply for all the following figures.
 	
 Seasonally, it is evident that oceanic evaporation in each hemisphere is intensified considerably during the wintertime. Such winter intensification is most pronounced over the regions of the Gulf Stream, the northern Indian ocean and Kuroshio (Fig. 6c&d), where the value of evaporation exceeds 300 cm/year in winter but is less than 135 cm/year in summer. The reason is that the surface air in winter for these regions mainly come from the continent, which is very cold and dry.
 
@@ -123,18 +123,20 @@ When air parcel experiences expansion or cooling, its ability to carry water vap
 <span id='F7'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_plus_wind_field_1850_1980.png?raw=true)
 		Fig. 7  Geographic and zonal distribution of annual mean precipitation.
 
-The general features of the zonal-average precipitation in [Fig. 7](#F7) are also apparent, with the largest precipitation (>200 cm/year zonally, >400cm cm/year in western tropical Pacific Ocean) near the equator, where the average water content of the air is high. In the subtropics convection and precipitation are suppressed by the downward mean air motion that characterizes this region. In these latitudes precipitation is at a minimum (ca. 50cm/year). In midlatitudes precipitation increases again. The forced ascent of moist surface air in midlatitude weather systems and the westerly flow over obstacles such as the Rocky Mountains give rise to heavy precipitation. In the polar regions, precipitation decreases. The entire hydrologic cycle is slowed down in polar regions because of the low temperatures and consequently low water-carrying capacity of the atmosphere.
+The general features of the zonal-average precipitation in [Fig. 7](#F7) are also apparent, with the largest precipitation (>200 cm/year zonally, >400cm cm/year in western tropical Pacific Ocean) near the equator, where the average water content of the air is high. In the subtropics convection and precipitation are suppressed by the downward mean air motion that characterizes this region[$^4$](#R4). In these latitudes precipitation is at a minimum (ca. 50cm/year). In midlatitudes precipitation increases again. The forced ascent of moist surface air in midlatitude weather systems and the westerly flow over obstacles such as the Rocky Mountains give rise to heavy precipitation. In the polar regions, precipitation decreases. The entire hydrologic cycle is slowed down in polar regions because of the low temperatures and consequently low water-carrying capacity of the atmosphere.
 
 Generally speaking, precipitation is most abundant where air rises (e.g. tropical and midlatitude zones, the windward slope of the Tibet Plateau and the Rocky Mountains) and least abundant where it sinks (e.g. subtropical zones and the leeward slopes of huge mountains). It also tends to be greater near oceans and lakes, and in higher elevations.
 
 
 #### ITCZ and monsoon
-From [Fig. 7](#F7), we see that rainfall on Earth is most intense near the equator. This narrow belt is called intertropical convergence zone (ITCZ). It is a belt of low pressure where the trade winds of the Northern and Southern Hemispheres come together ([Fig. 8](#F8)). As these winds converge, moist air is forced upward, rises and cools, causing water vapor to be "squeezed" out and resulting heavy precipitation. The location of ITCZ migrated seasonally to the warmer hemisphere ([Fig. 9](#F9)). We could imagine that, some tropical zones where ITCZ migrates through annually, will experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
+From [Fig. 7](#F7), we see that rainfall on Earth is most intense near the equator[$^5$](#R5). This narrow belt is called intertropical convergence zone (ITCZ). It is a belt of low pressure where the trade winds of the Northern and Southern Hemispheres come together ([Fig. 8](#F8)). As these winds converge, moist air is forced upward, rises and cools, causing water vapor to be "squeezed" out and resulting heavy precipitation. The location of ITCZ migrated seasonally to the warmer hemisphere ([Fig. 9](#F9)): In boreal summer, over the Atlantic and Pacific, the ITCZ is between 5 and 15 degrees north of the Equator, but further north over Africa and Asia. In eastern Asia, the ITCZ may reach 30°N. While in boreal winter, over the Atlantic, the ITCZ generally sits no further south than the Equator, but extends much further south over the land masses of South America, Southern Africa, and Australia.  
+
+We could imagine that, some tropical zones where ITCZ migrates through annually, will experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
 
 <span id='F8'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/surface_layer_temperature_wind_field_1850_1980.png?raw=true)
 		Fig. 8 Mean sea surface temperature distribution map with wind velocity vector superposed.
 
-During the winter phase of the monsoon, there is a low-level flow of dry, cool air from the cold continent to warmer ocean, and precipitation over the land is light. During summer, there is a flow of atmospheric moisture from the tropical ocean to the warmer land, where the upward motion of the heated air produces the heavy rains of the monsoon season ([Fig. 9](#F9)). The Asian-Australian monsoon system is the most dominant monsoon circulation of the earth and similar but less pronounced monsoon-type circulations also occur over west Africa and portions of Mexico and Central America. This pattern can also help explain the seasonal evaporation features discussed in previous subchapter.
+During the winter phase of the monsoon, there is a low-level flow of dry, cool air from the cold continent to warmer ocean, and precipitation over the land is light. During summer, there is a flow of atmospheric moisture from the tropical ocean to the warmer land, where the upward motion of the heated air produces the heavy rains of the monsoon season ([Fig. 9](#F9)). The Asian-Australian monsoon system is the most dominant monsoon circulation of the earth, where the summer-winter precipitation difference can reach more than 300 cm/year and monsoon areas extend furthest northward in east Asia (to around 30°N) . Such monsoon-type circulations also occur over west Africa and portions of Mexico and Central America. It’s also interesting to note that similar but less pronounced precipitation oscillation can also be observed in tropical ocean areas, which are far from the continents.  
 
 <span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_1850_1980.png?raw=true)
 		Fig. 9 Geographic and zonal distribution of mean precipitation for the boreal summer (JJA) and winter (DJF).
@@ -156,7 +158,7 @@ In the zonal direction, it seems that the dominant trend in the Atlantic Ocean i
 
 <span id='C3'>Chart 3  Water budget for different ocean basins
 	
-||	P (NASA)	|E	|Continental  discharge[Korzun et al. (1977)]	|offset
+||	P[$^6$](#R6)	|E[$^6$](#R6)	|Continental  discharge[$^7$](#R7)	|offset
 |:---:|:---:|:---:|:---:|:---:|
 |Pacific Ocean	|228.7|	233.7|	14.8|	9.8|
 |Atlantic Ocean|	80|	102.7|	20	|-2.7|
@@ -170,7 +172,7 @@ Scientists do find such a pathway. The streamfunction map can tell us the net wa
 The water movement in the Atlantic and Pacific is the component of a global-scale circulation, which is called the great ocean conveyor (Fig. 13). The conveyor belt transfers warm water from the Pacific Ocean to the Atlantic as a shallow current and returns cold water from the Atlantic to the Pacific as a deep current. Beginning in the central Pacific, it travels past the north coast of Australia and around the southern tip of Africa before moving up into the Atlantic. By the time it arrives the northern Atlantic and passes Europe, the surface water evaporates and the ocean water cools, releasing heat to the atmosphere. As the water becomes colder, it becomes dense enough to sink into depth. The deep water slowly travels south through the oceanic abyss, eventually mixing upward to the surface in different parts of the world. The whole process takes 1-2 thousand years.
 
 <span id='F13'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/F13.jpg?raw=true)
-		Fig. 13 The cartoon diagram for depicting great ocean conveyor (Broecker, 1987, illustrated by by Joe Le Monnier, first published in Natural History Magazine).
+		Fig. 13 The cartoon diagram for depicting great ocean conveyor[$^8$](#R8).
 
 ## Water cycle in the past
 
@@ -211,3 +213,10 @@ Seasonal character
 		Fig. 18 
 ## Annotation
 <span id='R1'>[1] Data source: Igor Shiklomanov's chapter "World fresh water resources" in Peter H. Gleick (editor), 1993, Water in Crisis: A Guide to the World's Fresh Water Resources (Oxford University Press, New York).
+<span id='R2'>[2] reproduced from W. James Shuttleworth’s chapter “Evaporation” in Maidment, D.R., 1993. Handbook of hydrology (Vol. 9780070, p. 397323). New York: McGraw-Hill.
+<span id='R3'>[3] Recommended reading for this topic: [Stommel, H., 1948. The westward intensification of wind‐driven ocean currents. Eos, Transactions American Geophysical Union, 29(2), pp.202-206.]( https://agupubs.onlinelibrary.wiley.com/doi/10.1029/TR029i002p00202)
+<span id='R4'>[4] Some knowledge about [Atmospheric Circulation](https://en.wikipedia.org/wiki/Atmospheric_circulation) will be beneficial for a better understanding.
+<span id='R5'>[5] Attention that there is only one peak in the northern hemisphere for zonal precipitation map in reality, but no available climate models can avoid the double-ITCZ artifact until now.
+<span id=’R6’>[6] Data source: [NASA Balances Water Budget with New Estimates of Liquid Assets](https://www.nasa.gov/feature/goddard/nasa-balances-water-budget-with-new-estimates-of-liquid-assets). Archived from the original on 2017-08-07.
+<span id=’R7’>[7] Data source: USSR National Committee for the International Hydrological decade and Korzun, V.I., 1977. Atlas of world water balance. Unesco Press.
+<span id=’R8’>[8] This figure was illustrated by Joe Le Monnier and first published in Wallace S. Broecker’s work in Natural History Magazine (1987).
