@@ -217,6 +217,6 @@ Seasonal character
 <span id='R3'>[3] Recommended reading for this topic: [Stommel, H., 1948. The westward intensification of wind‐driven ocean currents. Eos, Transactions American Geophysical Union, 29(2), pp.202-206.]( https://agupubs.onlinelibrary.wiley.com/doi/10.1029/TR029i002p00202)<br>
 <span id='R4'>[4] Some knowledge about [Atmospheric Circulation](https://en.wikipedia.org/wiki/Atmospheric_circulation) will be beneficial for a better understanding.<br>
 <span id='R5'>[5] Attention that there is only one peak in the northern hemisphere for zonal precipitation map in reality, but no available climate models can avoid the double-ITCZ artifact until now.<br>
-<span id=’R6’>[6] Data source: [NASA Balances Water Budget with New Estimates of Liquid Assets](https://www.nasa.gov/feature/goddard/nasa-balances-water-budget-with-new-estimates-of-liquid-assets). Archived from the original on 2017-08-07.<br>
-<span id=’R7’>[7] Data source: USSR National Committee for the International Hydrological decade and Korzun, V.I., 1977. Atlas of world water balance. Unesco Press.<br>
-<span id=’R8’>[8] This figure was illustrated by Joe Le Monnier and first published in Wallace S. Broecker’s work in Natural History Magazine (1987).<br>
+<span id='R6'>[6] Data source: [NASA Balances Water Budget with New Estimates of Liquid Assets](https://www.nasa.gov/feature/goddard/nasa-balances-water-budget-with-new-estimates-of-liquid-assets). Archived from the original on 2017-08-07.<br>
+<span id='R7'>[7] Data source: USSR National Committee for the International Hydrological decade and Korzun, V.I., 1977. Atlas of world water balance. Unesco Press.<br>
+<span id='R8'>[8] This figure was illustrated by Joe Le Monnier and first published in Wallace S. Broecker’s work in Natural History Magazine (1987).<br>
