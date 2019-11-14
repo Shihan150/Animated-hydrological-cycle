@@ -120,7 +120,7 @@ This equation tells us that the water vapor loading capacity of air depends on t
 When air parcel experiences expansion or cooling, its ability to carry water vapor will decline. In this case, we say the clouds are supersaturate and water vapor will condense on atmospheric particles, forming clouds. The clouds contain countless small drops of condensed water, which are too small to fall as precipitation. For precipitation to happen, first tiny water droplets must condense on even tinier dust, salt, or smoke particles, which act as a nucleus. Water droplets may grow as a result of additional condensation of water vapor when the particles collide. If enough collisions occur to produce a droplet with a fall velocity which exceeds the cloud updraft speed, then it will fall out of the cloud as precipitation. 
 
 
-<span id='F7'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_plus_wind_field_1850_1980.png?raw=true)
+<span id='F7'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_ave_1850_1980.png?raw=true)
 		Fig. 7  Geographic and zonal distribution of annual mean precipitation.
 
 The general features of the zonal-average precipitation in [Fig. 7](#F7) are also apparent, with the largest precipitation (>200 cm/year zonally, >400cm cm/year in western tropical Pacific Ocean) near the equator, where the average water content of the air is high. In the subtropics convection and precipitation are suppressed by the downward mean air motion that characterizes this region[$^4$](#R4). In these latitudes precipitation is at a minimum (ca. 50cm/year). In midlatitudes precipitation increases again. The forced ascent of moist surface air in midlatitude weather systems and the westerly flow over obstacles such as the Rocky Mountains give rise to heavy precipitation. In the polar regions, precipitation decreases. The entire hydrologic cycle is slowed down in polar regions because of the low temperatures and consequently low water-carrying capacity of the atmosphere.
@@ -138,7 +138,7 @@ We could imagine that, some tropical zones where ITCZ migrates through annually,
 
 During the winter phase of the monsoon, there is a low-level flow of dry, cool air from the cold continent to warmer ocean, and precipitation over the land is light. During summer, there is a flow of atmospheric moisture from the tropical ocean to the warmer land, where the upward motion of the heated air produces the heavy rains of the monsoon season ([Fig. 9](#F9)). The Asian-Australian monsoon system is the most dominant monsoon circulation of the earth, where the summer-winter precipitation difference can reach more than 300 cm/year and monsoon areas extend furthest northward in east Asia (to around 30°N) . Such monsoon-type circulations also occur over west Africa and portions of Mexico and Central America. It’s also interesting to note that similar but less pronounced precipitation oscillation can also be observed in tropical ocean areas, which are far from the continents.  
 
-<span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_1850_1980.png?raw=true)
+<span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_plus_wind_field_1850_1980.png?raw=true)
 		Fig. 9 Geographic and zonal distribution of mean precipitation for the boreal summer (JJA) and winter (DJF).
 
 ####  Indo-Pacific warm pool
@@ -171,7 +171,7 @@ Scientists do find such a pathway. The streamfunction map can tell us the net wa
 
 The water movement in the Atlantic and Pacific is the component of a global-scale circulation, which is called the great ocean conveyor (Fig. 13). The conveyor belt transfers warm water from the Pacific Ocean to the Atlantic as a shallow current and returns cold water from the Atlantic to the Pacific as a deep current. Beginning in the central Pacific, it travels past the north coast of Australia and around the southern tip of Africa before moving up into the Atlantic. By the time it arrives the northern Atlantic and passes Europe, the surface water evaporates and the ocean water cools, releasing heat to the atmosphere. As the water becomes colder, it becomes dense enough to sink into depth. The deep water slowly travels south through the oceanic abyss, eventually mixing upward to the surface in different parts of the world. The whole process takes 1-2 thousand years.
 
-<span id='F13'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/F13.jpg?raw=true)
+<span id='F13'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig13.jpg?raw=true)
 		Fig. 13 The cartoon diagram for depicting great ocean conveyor[$^8$](#R8).
 
 ## Water cycle in the past
