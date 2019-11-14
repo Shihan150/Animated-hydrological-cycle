@@ -29,7 +29,7 @@ Within the relatively small range of air temperatures and pressures found at the
 There are about 1.385 billion km3 of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. [Fig. 2](#F2) and [Chart 1](#C1) provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion km3). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 km3, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.1 million km3 of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million km3), but more than half of groundwater is not fresh. 
 
 <br/>
-		<span id='C1'>Chart 1 Estimate of global water distribution
+		<span id='C1'>Chart 1 Estimate of global water distribution[$^[1]$](#R1)
 
 |Reservoirs |Volume(1000 $km^3$)	|Pecentage|
 |:---:|:---:|:---:|	
@@ -45,10 +45,10 @@ There are about 1.385 billion km3 of water on Earth, over 96 percent of which is
 |Biological Water|	1.11|	0.0001
 |Total	|1,385,984|	100.0
 
-All the lakes on Earth contain 176,400 km3 of water and approximately 16,500 km3 of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 km3 of water. In contrast, the atmosphere holds only 0.001% (12,900 km3) and swamp about 11 500 km3 of water. A small amount of biological water (1110 km3) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work by Gleick in 1996. These values are estimates, and future studies will lead refinement of these values.
+All the lakes on Earth contain 176,400 km3 of water and approximately 16,500 km3 of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 km3 of water. In contrast, the atmosphere holds only 0.001% (12,900 km3) and swamp about 11 500 km3 of water. A small amount of biological water (1110 km3) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996 [$^[1]$](#R1). These values are estimates, and future studies will lead refinement of these values.
 
 <span id='F2'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig2.png?raw=true)
-		Fig. 2 Global water distribution.
+		Fig. 2 Global water distribution[$^[1]$](#R1). The arrows betoken that the elements in the next panel constitute the other reservoirs in the previous one.
 		
 
 ### The rule for quantitative understanding
@@ -95,7 +95,7 @@ Evaporation is the removal of water from the surface to the air with an accompan
 ![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure5.jpg?raw=true)
 		<span id='F5'>Fig. 5 Cartoonish diagram showing the molecular exchange between liquid water and atmosphere. <Handbook of Hydrology>
 
-[Fig. 6a&b](#F6) shows that the global evaporation distribution is roughly zonally oriented, with larger evaporation (>181 cm/year) occurring over the subtropical latitudes of the global oceans and smaller evaporation (<89 cm/year) over the equatorial cold tongues and higher latitudes. As aforementioned, energy is the dominant controlling factor for evaporation, so this zonal distribution feature is easy to understand. It’s also notable that there are some exceptions to this zonal pattern, which all lie in the regions of ocean western boundary in subtropical areas. These anomaly high values are related with the heat carried by these strong currents (like the Gulf Stream off the United States, the Kuroshio off Japan, the Agulhas Current off the African coast et al.). These currents are called western boundary current by scientists and it’s another wonderful story for their formation. Another exception is the eastern tropical Pacific, where the evaporation rate is lower than other areas at similar latitudes. 
+[Fig. 6a&b](#F6) shows that the global evaporation distribution is roughly zonally oriented, with larger evaporation (>181 cm/year) occurring over the subtropical latitudes of the global oceans and smaller evaporation (<89 cm/year) over the equatorial cold tongues and higher latitudes. As aforementioned, energy is the dominant controlling factor for evaporation, so this zonal distribution feature is easy to understand. It’s also notable that there are some exceptions to this zonal pattern, which all lie in the regions of ocean western boundary in subtropical areas. These anomaly high values are related with the heat carried by these strong currents (like the Gulf Stream off the United States, the Kuroshio off Japan, the Agulhas Current off the African coast et al.). These currents are called western boundary current by scientists and it’s another wonderful story for their formation. Another exception is the eastern tropical Pacific, where the evaporation rate is lower than other areas at the same latitudes. 
 
 <span id='F6'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/evap_annual_seasonal_zonal_1850_1980.png?raw=true)
 		Fig. 6 Geographic and zonal distribution of annual mean evaporation.
@@ -207,4 +207,5 @@ For precipitation major decrease takes place in the low (10ºN-10ºS) and then h
 Seasonal character
 <span id='F18'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_seasonal_lgm_modern_difference_with_zonal.gif?raw=true)
 		Fig. 18 
-
+## Annotation
+<span id='R1'>[1] Data source: Igor Shiklomanov's chapter "World fresh water resources" in Peter H. Gleick (editor), 1993, Water in Crisis: A Guide to the World's Fresh Water Resources (Oxford University Press, New York).
