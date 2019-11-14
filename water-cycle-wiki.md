@@ -9,7 +9,8 @@ This article will describe the key processes and concepts in global water cycle,
 |E-mail|shihan@uni-bremen.de
 |Advisor|Dr. André Paul
 |Institution|Geoscience faculty, Universitaet Bremen
-|major data source| [TraCE-21ka](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka')
+
+> Unless stated otherwise, all data from [TraCE-21ka Simulation](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka') results
 
 
 ****
