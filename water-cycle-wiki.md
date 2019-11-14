@@ -29,7 +29,7 @@ Within the relatively small range of air temperatures and pressures found at the
 There are about 1.385 billion km3 of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. [Fig. 2](#F2) and [Chart 1](#C1) provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion km3). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 km3, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.1 million km3 of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million km3), but more than half of groundwater is not fresh. 
 
 <br/>
-		<span id='C1'>Chart 1 Estimate of global water distribution[$^[1]$](#R1)
+		<span id='C1'>Chart 1 Estimate of global water distribution[$^[^1^]$](#R1)
 
 |Reservoirs |Volume(1000 $km^3$)	|Pecentage|
 |:---:|:---:|:---:|	
