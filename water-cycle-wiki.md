@@ -188,7 +188,7 @@ Some regional drought or flood events can be identified during 850-1850 AD from 
 <span id='F15'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_last_1ka_with_zonal.gif?raw=true)
 		Fig. 15 Global and zonal prectipitation difference between last 1000 years and the modern world.
 ### Last glacial maximum
-21,000 years ago, Earth’s surface was totally different from its current appearance. The mean global surface temperature was around 3-4°C lower (Shakun et al. 2012). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
+21,000 years ago, Earth’s surface was totally different from its current appearance. The mean global surface temperature was around 3-4°C lower [$^9$](#R9). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
 	
 #### General cycle
 Similarly, let’s look at the general picture of global water cycle during LGM at first. Compared to modern world, the annual global precipitation and evaporation are around 8% lower. That means, the water cycle at that time took place at a slower velocity. The drop is mainly attributed to the changes in the ocean: annual evaporation in the ocean decreases from 410 to 377 ($10^3 km^3$). More than 90% of the evaporating water from oceans precipitates back onto oceans. While for the land, the volume of evaporation and precipitation is almost the same as that in modern world. 
@@ -223,3 +223,5 @@ Seasonal character
 <span id='R6'>[6] Data source: [NASA Balances Water Budget with New Estimates of Liquid Assets](https://www.nasa.gov/feature/goddard/nasa-balances-water-budget-with-new-estimates-of-liquid-assets). Archived from the original on 2017-08-07.<br>
 <span id='R7'>[7] Data source: USSR National Committee for the International Hydrological decade and Korzun, V.I., 1977. Atlas of world water balance. Unesco Press.<br>
 <span id='R8'>[8] This figure was illustrated by Joe Le Monnier and first published in Wallace S. Broecker’s work in Natural History Magazine (1987).<br>
+<span id='R9'>[9] Shakun, J.D., Clark, P.U., He, F., Marcott, S.A., Mix, A.C., Liu, Z., Otto-Bliesner, B., Schmittner, A. and Bard, E., 2012. Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation. Nature, 484(7392), p.49.<br>
+
