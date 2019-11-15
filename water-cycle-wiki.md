@@ -124,7 +124,7 @@ When air parcel experiences expansion or cooling, its ability to carry water vap
 
 
 <span id='F7'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_ave_1850_1980.png?raw=true)
-		Fig. 7  Geographic and zonal distribution of annual mean precipitation.
+		Fig. 7  Geographic and zonal distribution of annual mean precipitation. 
 
 The general features of the zonal-average precipitation in [Fig. 7](#F7) are also apparent, with the largest precipitation (>200 cm/year zonally, >400cm cm/year in western tropical Pacific Ocean) near the equator, where the average water content of the air is high. In the subtropics convection and precipitation are suppressed by the downward mean air motion that characterizes this region[$^4$](#R4). In these latitudes precipitation is at a minimum (ca. 50cm/year). In midlatitudes precipitation increases again. The forced ascent of moist surface air in midlatitude weather systems and the westerly flow over obstacles such as the Rocky Mountains give rise to heavy precipitation. In the polar regions, precipitation decreases. The entire hydrologic cycle is slowed down in polar regions because of the low temperatures and consequently low water-carrying capacity of the atmosphere.
 
@@ -137,19 +137,19 @@ From [Fig. 7](#F7), we see that rainfall on Earth is most intense near the equat
 We could imagine that, some tropical zones where ITCZ migrates through annually, will experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
 
 <span id='F8'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/surface_layer_temperature_wind_field_1850_1980.png?raw=true)
-		Fig. 8 Mean sea surface temperature distribution map with wind velocity vector superposed.
+		Fig. 8 Mean sea surface temperature distribution map with wind velocity vector superposed. The direction and length of arrows demonstrate the wind direction and velocity.
 
 During the winter phase of the monsoon, there is a low-level flow of dry, cool air from the cold continent to warmer ocean, and precipitation over the land is light. During summer, there is a flow of atmospheric moisture from the tropical ocean to the warmer land, where the upward motion of the heated air produces the heavy rains of the monsoon season ([Fig. 9](#F9)). The Asian-Australian monsoon system is the most dominant monsoon circulation of the earth, where the summer-winter precipitation difference can reach more than 300 cm/year and monsoon areas extend furthest northward in east Asia (to around 30°N) . Such monsoon-type circulations also occur over west Africa and portions of Mexico and Central America. It’s also interesting to note that similar but less pronounced precipitation oscillation can also be observed in tropical ocean areas, which are far from the continents.  
 
 <span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_plus_wind_field_1850_1980.png?raw=true)
-		Fig. 9 Geographic and zonal distribution of mean precipitation for the boreal summer (JJA) and winter (DJF).
+		Fig. 9 Geographic and zonal distribution of mean precipitation for the boreal summer (JJA) and winter (DJF). JJA and DJF stands for June, July, August and December, January, February respectively.
 
 ####  Indo-Pacific warm pool
 Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest 			(>28°C, [Fig. 8](#F8)). This area is called  Indo-Pacific warm pool. Intensive precipitation and evaporation also take 	place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is an important source to drive the atmospheric circulation and thereby the water cycle as well. 
 
 
 ### Regional P/E difference
-In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. This P/E difference distribution implies the net transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
+In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. The Indo-Pacific warm pool is the region which receives the largest freshwater input from the atmosphere annualy (more than 250 cm/year). This P/E difference distribution implies the net transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
 <span id='F10'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_minus_evap_ave_1850_1980.png?raw=true)
 		Fig. 10 Global and zonal distribution of annual P/E difference in modern world.
 
@@ -182,13 +182,13 @@ The water movement in the Atlantic and Pacific is the component of a global-scal
 An important task for geoscientists is to look into the past and find how our earth evolves gradually. In this chapter we will discuss the features of water cycle during last 1000 years and Last Glacial Maximum (LGM).
 
 ### Last 1000 years: 850-1850AD
-Some regional drought or flood events can be identified during 850-1850 AD from [Fig. 14&15](#F14), however, from a larger scale, the hydrologic cycle is almost same as that in modern world. For evaporation, the northern Atlantic undergoes the oscillation regularly, ranging from <-40 to >20 cm/year. The precipitation is much more variable and the changes mainly concentrate on the tropical zones.
+Some regional drought or flood events can be identified during 850-1850 AD from [Fig. 14&15](#F14), however, from a larger scale, the hydrologic cycle is almost same as that in modern world. For evaporation, the northern Atlantic undergoes the oscillation regularly, ranging from <-40 to >20 cm/year. The precipitation varied much more frequently and the changes mainly concentrate on the tropical zones.
 <span id='F14'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_diff_last_1ka_with_zonal.gif?raw=true)
 		Fig. 14 Global and zonal evaporation difference between last 1000 years and the modern world.
 <span id='F15'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_last_1ka_with_zonal.gif?raw=true)
 		Fig. 15 Global and zonal prectipitation difference between last 1000 years and the modern world.
 ### Last glacial maximum
-21,000 years ago, Earth’s surface was totally different from its current appearance. The mean global surface temperature was around 3-4°C lower [$^9$](#R9). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
+When 21 ka BP(ka BP, thousand years before 1950), Earth’s surface was totally different from its current appearance. The mean global surface temperature was around 3-4°C lower [$^9$](#R9). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
 	
 #### General cycle
 Similarly, let’s look at the general picture of global water cycle during LGM at first. Compared to modern world, the annual global precipitation and evaporation are around 8% lower. That means, the water cycle at that time took place at a slower velocity. The drop is mainly attributed to the changes in the ocean: annual evaporation in the ocean decreases from 410 to 377 ($10^3 km^3$). More than 90% of the evaporating water from oceans precipitates back onto oceans. While for the land, the volume of evaporation and precipitation is almost the same as that in modern world. 
@@ -211,9 +211,9 @@ For precipitation major decrease takes place in the low (10ºN-10ºS) and then h
 <span id='F17'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_LGM_modern_difference_with_zonal.gif?raw=true)
 		Fig. 17 Global and zonal precipitation difference between LGM and the modern world.
 	
-Seasonal character
-<span id='F18'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_seasonal_lgm_modern_difference_with_zonal.gif?raw=true)
-		Fig. 18 
+Seasonally, the changes of seasonal precipitation contrast ([Fig. 18](#F18)) is calculated by the formula $\vert{P(JJA, LGM) - P(DJF, modern)}\vert - \vert{P(JJA, modern) - P(DJF, modern)}\vert$. It is evident that the seasonal precipitation difference over most of continental monsoon areas decreased during LGM. The maximum decline occurs over the South Asia, where the value reaches -144 to -180 cm/year. The eastern coast of South Amecica and some areas in Sub-Saharan Africa are exceptions and underwent the intensified seasonal precipitation changes during LGM. This kind of intensification can also be seen in some tropical oceanic areas, especially the Indian Ocean and the eastern Pacific Ocean. At 30°-40°N, it's interesting to see the converse situations in the eastern (decrease) and western part (amplification) of Atlantic Ocean.
+<span id='F18'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/changes_prect_seasonal_lgm_modern_difference.gif?raw=true)
+		Fig. 18 The changes of seasonal precipitation difference between LGM and the modern world. 
 ## Annotation
 <span id='R1'>[1] Data source: Igor Shiklomanov's chapter "World fresh water resources" in Peter H. Gleick (editor), 1993, Water in Crisis: A Guide to the World's Fresh Water Resources (Oxford University Press, New York).<br>
 <span id='R2'>[2] reproduced from W. James Shuttleworth’s chapter “Evaporation” in Maidment, D.R., 1993. Handbook of hydrology (Vol. 9780070, p. 397323). New York: McGraw-Hill.<br>
