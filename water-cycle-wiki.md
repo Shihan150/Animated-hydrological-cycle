@@ -215,8 +215,7 @@ Seasonally, the changes of seasonal precipitation contrast ([Fig. 18](#F18)) is 
 $$\vert{P(JJA, LGM) - P(DJF, modern)}\vert - \vert{P(JJA, modern) - P(DJF, modern)}\vert$$ 
 It is evident that the seasonal precipitation difference over most of continental monsoon areas decreased during LGM. The maximum decline occurs over the South Asia, where the value reaches -144 to -180 cm/year. The eastern coast of South Amecica and some areas in Sub-Saharan Africa are exceptions and underwent the intensified seasonal precipitation changes during LGM. This kind of intensification can also be seen in some tropical oceanic areas, especially the Indian Ocean and the eastern Pacific Ocean. At 30°-40°N, it's interesting to see the converse situations in the eastern (decrease) and western part (amplification) of Atlantic Ocean.
 <span id='F18'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/changes_prect_seasonal_lgm_modern_difference.gif?raw=true)
-	
-		Fig. 18 The changes of seasonal precipitation difference between LGM and the modern world. 
+Fig. 18 The changes of seasonal precipitation difference between LGM and the modern world. 
 ## Annotation
 <span id='R1'>[1] Data source: Igor Shiklomanov's chapter "World fresh water resources" in Peter H. Gleick (editor), 1993, Water in Crisis: A Guide to the World's Fresh Water Resources (Oxford University Press, New York).<br>
 <span id='R2'>[2] reproduced from W. James Shuttleworth’s chapter “Evaporation” in Maidment, D.R., 1993. Handbook of hydrology (Vol. 9780070, p. 397323). New York: McGraw-Hill.<br>
@@ -228,3 +227,10 @@ It is evident that the seasonal precipitation difference over most of continenta
 <span id='R8'>[8] This figure was illustrated by Joe Le Monnier and first published in Wallace S. Broecker’s work in Natural History Magazine (1987).<br>
 <span id='R9'>[9] Shakun, J.D., Clark, P.U., He, F., Marcott, S.A., Mix, A.C., Liu, Z., Otto-Bliesner, B., Schmittner, A. and Bard, E., 2012. Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation. Nature, 484(7392), p.49.<br>
 
+## Further reading
+[1] Broecker, W.S., 1991. The great ocean conveyor. Oceanography, 4(2), pp.79-89.
+[2] Hartmann, D.L., 2015. The hydrological Cycle. In Global physical climatology (Vol. 103, pp. 115-135). Newnes.
+[3] Kundzewicz, Z.W., 2008. Climate change impacts on the hydrological cycle. Ecohydrology & Hydrobiology, 8(2-4), pp.195-203.
+[4] Maidment, D.R., 1993. Handbook of hydrology (Vol. 9780070, p. 397323). New York: McGraw-Hill.
+[5] Talley, L.D., 2011. Descriptive physical oceanography: an introduction. Academic press.
+[6] Webster, P.J., 1994. The role of hydrological processes in ocean‐atmosphere interactions. Reviews of Geophysics, 32(4), pp.427-476.
