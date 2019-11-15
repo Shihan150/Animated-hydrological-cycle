@@ -55,6 +55,9 @@ All the lakes on Earth contain 176,400 km3 of water and approximately 16,500 km3
 ### The rule for quantitative understanding
 First let’s imagine a water pool which has an inlet and outlet ([Fig. 3](#F3)). After a time interval ($\Delta t$), the volume change of the pool only depends on the inflow and outflow through the inlet and outlet. In this way, we could deal with the pool as a black box, only focusing on the boundary processes related with input and output while processes inside the pool being neglected. Such a pool is called the reservoir or storage, and the inflow and outflow are called influx.
 
+<span id='F3'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure3.jpg?raw=true)
+	Fig.3 Cartoonish diagrams for the understanding of the rule of balance. The volume change inside the pool only depends on the inflow and outflow through the inlet and outlet.
+
 When studying the water cycle, we apply the similar method. For different purposes we can define the reservoir of different size and the number of ‘inlets’ and ‘outlets’ will vary correspondingly. Let’s take the ocean for an example. From a global scale, we can mainly focus on the water exchange with atmosphere through evaporation and precipitation, with continents through river runoff and groundwater processes and also with ocean floor. The last one takes place in a much longer timescale, so it will not be discussed here. But from a regional scale, for instance water cycle in a continental sea, besides the aforementioned elements, the exchange with adjunct ocean areas by current must also be taken into account.
 
 Actually, this method, called the rule of balance or equation of conservation of mass, is the most essential, and universal, law guiding the study of water cycle. It reads, for any fixed reservoirs (pools): 
