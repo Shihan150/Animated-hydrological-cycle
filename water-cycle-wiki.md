@@ -228,9 +228,9 @@ Fig. 18 The changes of seasonal precipitation difference between LGM and the mod
 <span id='R9'>[9] Shakun, J.D., Clark, P.U., He, F., Marcott, S.A., Mix, A.C., Liu, Z., Otto-Bliesner, B., Schmittner, A. and Bard, E., 2012. Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation. Nature, 484(7392), p.49.<br>
 
 ## Further reading
-[1] Broecker, W.S., 1991. The great ocean conveyor. Oceanography, 4(2), pp.79-89.
-[2] Hartmann, D.L., 2015. The hydrological Cycle. In Global physical climatology (Vol. 103, pp. 115-135). Newnes.
-[3] Kundzewicz, Z.W., 2008. Climate change impacts on the hydrological cycle. Ecohydrology & Hydrobiology, 8(2-4), pp.195-203.
-[4] Maidment, D.R., 1993. Handbook of hydrology (Vol. 9780070, p. 397323). New York: McGraw-Hill.
-[5] Talley, L.D., 2011. Descriptive physical oceanography: an introduction. Academic press.
+[1] Broecker, W.S., 1991. The great ocean conveyor. Oceanography, 4(2), pp.79-89.<br>
+[2] Hartmann, D.L., 2015. The hydrological Cycle. In Global physical climatology (Vol. 103, pp. 115-135). Newnes.<br>
+[3] Kundzewicz, Z.W., 2008. Climate change impacts on the hydrological cycle. Ecohydrology & Hydrobiology, 8(2-4), pp.195-203.<br>
+[4] Maidment, D.R., 1993. Handbook of hydrology (Vol. 9780070, p. 397323). New York: McGraw-Hill.<br>
+[5] Talley, L.D., 2011. Descriptive physical oceanography: an introduction. Academic press.<br>
 [6] Webster, P.J., 1994. The role of hydrological processes in ocean‐atmosphere interactions. Reviews of Geophysics, 32(4), pp.427-476.
