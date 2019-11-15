@@ -46,9 +46,9 @@ def static_plot(time_index, key_variable, lat, lon,
     
     #start ploting
     fig = plt.figure(figsize = figsize)
-
+    grid = plt.GridSpec(1, 3, wspace=0.5, hspace=0.5)
     #plot ax1, average evaporation in last 1kyr
-    ax1 = fig.add_subplot(2,1,1, projection=ccrs.PlateCarree())
+    ax1 = fig.add_subplot(grid[0,:2], projection=ccrs.PlateCarree())
     ax1.coastlines()
     #plot ax1.controuf map
     contf = ax1.contourf(lon,lat,key_variable_ave, levels = np.linspace(lower_limitation,upper_limitation,41),
@@ -75,14 +75,14 @@ def static_plot(time_index, key_variable, lat, lon,
     ax1.yaxis.set_major_formatter(LatitudeFormatter())
 
     #plot ax2, zonal distribution for ax1
-    ax2 = fig.add_subplot(2,1,2)
+    ax2 = fig.add_subplot(grid[0,2])
     key_variable_ave_zonal = np.mean(key_variable_ave, axis = 1)
-    key_variable_ave_z = ax2.plot(lat, key_variable_ave_zonal, linewidth=3.0, color = 'b')
+    ax2.plot(key_variable_ave_zonal,lat, linewidth=3.0, color = 'b')
     #set ax2 format
     ax2.set_title(title2, fontweight = 'bold', fontsize = 20 )
-    ax2.set_xlabel('°N',fontsize = 16)
+    ax2.set_ylabel('°N',fontsize = 16)
     ax2.tick_params(labelsize=16) 
-    ax2.set_ylabel("cm/year",fontsize = 16)
+    ax2.set_xlabel("cm/year",fontsize = 16)
 
     fig.savefig(figtitle)
     return fig
@@ -119,10 +119,10 @@ prect_minus_qflx = np.dstack((prect_minus_qflx,prect_minus_qflx[:,:,0]))
 
 #define the time interval: 850 - 1850 AD
 time_index = np.where(time>=-0.1)
-figsize = (12,14)
+figsize = (15,6)
 title1 = 'a.Annual precipitation minus evaporation (1850-1980 AD)'
-title2 = 'b.Zonal average P/E difference (1850-1980 AD)'
-colorbar_title = 'P/E difference (cm/year)'
+title2 = 'b.Zonal average'
+colorbar_title = 'cm/year'
 figtitle = 'prect_minus_evap_ave_1850_1980.png'
 fig = static_plot(time_index, prect_minus_qflx, lat, lon, 
                 figsize, title1, title2, colorbar_title,figtitle)   

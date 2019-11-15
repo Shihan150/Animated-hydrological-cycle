@@ -46,9 +46,9 @@ prect = np.dstack((prect,prect[:,:,0]))
 
 #define the time interval: 850 - 1850 AD
 time_index = np.where((time>=-22)&(time<=-20))
-time_last_1kyr = time[time_index]
+time_lgm = time[time_index]
 
-prect_last_1kyr = prect[time_index[0][0]:time_index[0][-1]+1,:,:]
+prect_lgm = prect[time_index[0][0]:time_index[0][-1]+1,:,:]
 
 
 
@@ -56,14 +56,14 @@ prect_last_1kyr = prect[time_index[0][0]:time_index[0][-1]+1,:,:]
 prect_ave = np.empty([len(lat),len(lon)])
 for i in range(len(lat)):
     for j in range(len(lon)):
-        mean = np.mean(prect_last_1kyr[:,i,j])
+        mean = np.mean(prect_lgm[:,i,j])
         prect_ave[i,j] = mean
 
 #calculate zonal average
-prect_zonal = np.empty([len(time_last_1kyr),len(lat)])
-for i in range(len(time_last_1kyr)):
+prect_zonal = np.empty([len(time_lgm),len(lat)])
+for i in range(len(time_lgm)):
     for j in range(len(lat)):
-        mean = np.mean(prect_last_1kyr[i,j,:])
+        mean = np.mean(prect_lgm[i,j,:])
         prect_zonal[i,j] = mean        
         
 # calculate 1850-1980 AD as comparison
@@ -79,18 +79,19 @@ for i in range(len(lat)):
     #calculate zonal average
 prect_1850_1980_zonal = np.mean(prect_1850_1980_ave,axis = 1)
 
-upper_limitation = np.max(prect_last_1kyr)
+upper_limitation = np.max(prect_lgm)
 
 ## plot
-fig = plt.figure(figsize = (12,14))
+fig = plt.figure(figsize = (15,6))
+grid = plt.GridSpec(1, 3, wspace=0.5, hspace=0.5)
 #grid space to place figures
 
 #basemap
-ax1 = fig.add_subplot(211, projection=ccrs.PlateCarree())
+ax1 = fig.add_subplot(grid[0,:2], projection=ccrs.PlateCarree())
 ax1.coastlines()
 #draw controuf map
-upper_limitation = np.max(prect_last_1kyr)
-contf1 = ax1.contourf(lon,lat,prect_last_1kyr[0,:,:]-prect_1850_1980_ave,
+upper_limitation = np.max(prect_lgm)
+contf1 = ax1.contourf(lon,lat,prect_lgm[0,:,:]-prect_1850_1980_ave,
                       levels = np.linspace(-100,100,51),
                       extend = 'both',
                       projection=ccrs.PlateCarree())
@@ -99,7 +100,7 @@ cb1 = fig.colorbar(contf1, ticks = np.linspace(-100,100,11),
                    format = '%.0f',
                    orientation = 'horizontal',fraction=0.08, pad=0.15)
 #set colorbar format
-cb1.set_label('Precipitation difference (cm/year)', fontsize = 16)
+cb1.set_label('cm/year', fontsize = 16)
 cb1.ax.tick_params(labelsize=16)
 #set ax1 label's and tick's format
 ax1.set_xticks([ -180, -120, -60,0, 60, 120, 180,], crs=ccrs.PlateCarree())
@@ -109,45 +110,45 @@ ax1.xaxis.set_major_formatter(LongitudeFormatter())
 ax1.yaxis.set_major_formatter(LatitudeFormatter())
 
 ##plot ax2, temporal change of zonal average evaporation
-ax2 = fig.add_subplot(212)
-t = -time_last_1kyr[0]
-ax2.plot(lat, prect_zonal[0,:], linewidth=3.0, color = 'b', label='%.2f ky BP' %t)
-ax2.plot(lat, prect_1850_1980_zonal, linewidth = 3.0, color = 'r', linestyle = '--', label = '1850-1980 AD')
+ax2 = fig.add_subplot(grid[0,2])
+t = -time_lgm[0]
+ax2.plot(prect_zonal[0,:], lat, linewidth=3.0, color = 'b', linestyle = '--', label='%.2f ky BP' %t)
+ax2.plot(prect_1850_1980_zonal, lat, linewidth = 2.0, color = 'r', label = '1850-1980 AD')
 #set ax2 format
-ax2.set_xlabel('°N',fontsize = 16)
+ax2.set_ylabel('°N',fontsize = 16)
 ax2.tick_params(labelsize=16) 
-ax2.set_ylabel("cm/year",fontsize = 16)
-ax2.set_ylim([0,240])
-ax2.legend(fontsize = 20)
+ax2.set_xlabel("cm/year",fontsize = 16)
+ax2.set_xlim([0,240])
+ax2.legend(fontsize = 12)
 
 #animate the plot with temporal change
 def animate(i): 
     ax1.clear()
     ax2.clear()
-    contf1 = ax1.contourf(lon,lat,prect_last_1kyr[i*5,:,:]-prect_1850_1980_ave,
+    contf1 = ax1.contourf(lon,lat,prect_lgm[i*5,:,:]-prect_1850_1980_ave,
                           levels = np.linspace(-100,100,51),
                           extend = 'both',
                           projection=ccrs.PlateCarree())
     ax1.coastlines()
-    t = -time_last_1kyr[i*5]
+    t = -time_lgm[i*5]
     ax1.set_xticks([ -180, -120, -60,0, 60, 120, 180,], crs=ccrs.PlateCarree())
     ax1.set_yticks([-90, -60, -30, 0, 30, 60, 90],  crs=ccrs.PlateCarree())
     ax1.tick_params(axis='both', labelsize=20)
     ax1.xaxis.set_major_formatter(LongitudeFormatter())
     ax1.yaxis.set_major_formatter(LatitudeFormatter())
-    ax2.plot(lat, prect_zonal[i*5,:],linewidth=3.0, color = 'b', label='%.2f ka BP' %t)
-    ax2.plot(lat, prect_1850_1980_zonal, linewidth = 2.0, color = 'r', linestyle = '--', 
+    ax2.plot(prect_zonal[i*5,:], lat, linewidth=3.0, color = 'b', label='%.2f ka BP' %t)
+    ax2.plot(prect_1850_1980_zonal, lat, linewidth = 2.0, color = 'r', linestyle = '--', 
              label = '1850-1980 AD')
-    ax2.set_ylim([0,240])
-    ax2.legend(fontsize = 20)
-    ax2.set_xlabel('°N',fontsize = 16)
-    ax2.set_ylim([0,np.max(prect_zonal)+40])
+    ax2.set_xlim([0,240])
+    ax2.legend(fontsize = 12)
+    ax2.set_ylabel('°N',fontsize = 16)
+    ax2.set_xlim([0,np.max(prect_zonal)+40])
     ax2.tick_params(labelsize=16) 
-    ax2.set_ylabel("cm/year",fontsize = 16)
+    ax2.set_xlabel("cm/year",fontsize = 16)
     ax1.set_title('Precipitation difference (%.2f ka BP)' %t, fontweight = 'bold', fontsize = 20  )
-    ax2.set_title('Zonal average precipitation rate (%.2f ka BP)' %t,fontweight = 'bold', fontsize = 20 )
+    ax2.set_title('Zonal average precipitation', fontweight = 'bold', fontsize = 20 )
     #plt.suptitle('%.2f ka BP' %t,fontsize = 30, y=0.92)
      
     
-anim = animation.FuncAnimation(fig, animate, frames=len(time_last_1kyr)//5, interval=800,blit=False)
+anim = animation.FuncAnimation(fig, animate, frames=len(time_lgm)//5, interval=800,blit=False)
 anim.save('prect_LGM_modern_difference_with_zonal.gif', writer='imagemagick')

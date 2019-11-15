@@ -5,14 +5,16 @@ Created on Fri Oct 25 11:04:34 2019
 @author: Shihan Li
 plot the geographic distribution of average precipitation (1850-1980 AD)
 """
+#import packages
 import numpy as np
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
 from cartopy.mpl.ticker import LongitudeFormatter, LatitudeFormatter
+
 #readdata function
 from netCDF4 import Dataset
 def readdata(file_name):
-    file_path_re = r'C:\Users\59506\Desktop\plot\atmosphere'
+    file_path_re =  r'D:\LifeInBremen\MODULES\Project\data\atmosphere'
     b = '/'
     file_path = file_path_re + b + file_name
     file_obj = Dataset(file_path)
@@ -26,7 +28,7 @@ def static_plot(time_index, key_variable, lat, lon,
     #figsize: define the size of final figure
     #titles: title name for each element respectively
     time_interval = time[time_index] #make the time interval
-    #pick up the key variable value for  correspondent time interval
+    #pick up the key variable value for correspondent time interval
     key_variable_in_interval = key_variable[time_index[0][0]:time_index[0][-1]+1,:,:] 
     #calculate the average in this time interval
     key_variable_ave = np.empty([len(lat),len(lon)])
@@ -45,9 +47,10 @@ def static_plot(time_index, key_variable, lat, lon,
     
     #start ploting
     fig = plt.figure(figsize = figsize)
-
-    #plot ax1, average evaporation in last 1kyr
-    ax1 = fig.add_subplot(2,1,1, projection=ccrs.PlateCarree())
+    #grid the fig space
+    grid = plt.GridSpec(1, 3, wspace=0.5, hspace=0.5)
+    #plot ax1, average in time-interval
+    ax1 = fig.add_subplot(grid[0,:2], projection=ccrs.PlateCarree())
     ax1.coastlines()
     #plot ax1.controuf map
     contf = ax1.contourf(lon,lat,key_variable_ave, 
@@ -56,9 +59,6 @@ def static_plot(time_index, key_variable, lat, lon,
                          projection=ccrs.PlateCarree())
     #set title for ax1
     ax1.set_title(title1 , fontweight = 'bold', fontsize = 20)
-    #plot the contour line
-    #levels = range(100,700,200)
-    #countour = ax1.contour(lon, lat, evap_ave, levels = levels, colors='r',linestyles = 'dashed')
     #add colorbar
     cb1 = fig.colorbar(contf, ticks = np.linspace(lower_limitation, upper_limitation, 11),  format = '%.0f',
                    orientation = 'horizontal',fraction=0.08, pad=0.12)
@@ -69,19 +69,21 @@ def static_plot(time_index, key_variable, lat, lon,
     ax1.set_xticks([ -180, -120, -60,0, 60, 120, 180,], crs=ccrs.PlateCarree())
     ax1.set_yticks([-90, -60, -30, 0, 30, 60, 90],  crs=ccrs.PlateCarree())
     ax1.tick_params(axis='both', labelsize=20)
+    #use the default format for axes
     ax1.xaxis.set_major_formatter(LongitudeFormatter())
     ax1.yaxis.set_major_formatter(LatitudeFormatter())
 
     #plot ax2, zonal distribution for ax1
-    ax2 = fig.add_subplot(2,1,2)
+    ax2 = fig.add_subplot(grid[0,2])
     key_variable_ave_zonal = np.mean(key_variable_ave, axis = 1)
-    key_variable_ave_z = ax2.plot(lat, key_variable_ave_zonal, linewidth=3.0, color = 'b')
+    ax2.plot(key_variable_ave_zonal, lat,  linewidth=3.0, color = 'b')
     #set ax2 format
     ax2.set_title(title2, fontweight = 'bold', fontsize = 20 )
-    ax2.set_xlabel('°N',fontsize = 16)
+    ax2.set_ylabel('°N',fontsize = 16)
     ax2.tick_params(labelsize=16) 
-    ax2.set_ylabel("cm/year",fontsize = 16)
+    ax2.set_xlabel("cm/year",fontsize = 16)
 
+    #save fig
     fig.savefig(figtitle)
     return fig
 ##read precipitation data
@@ -102,10 +104,10 @@ prect = np.dstack((prect,prect[:,:,0]))
 
 #define the time interval: 1850 - 1980 AD
 time_index = np.where(time>=-0.1)
-figsize = (12,14)
+figsize = (15,6)
 title1 = 'a.Annual precipitation (1850-1980 AD)'
-title2 = 'b.Zonal average precipitation (1850-1980 AD)'
-colorbar_title = 'Precipitation rate (cm/year)'
+title2 = 'b.Zonal average precipitation'
+colorbar_title = 'cm/year'
 figtitle = 'prect_ave_1850_1980.png'
 fig = static_plot(time_index, prect, lat, lon, 
                 figsize, title1, title2, colorbar_title,figtitle)   

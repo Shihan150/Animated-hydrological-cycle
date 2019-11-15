@@ -76,11 +76,11 @@ lower_limitation = -40
 
 ## plot
 
-fig = plt.figure(figsize = (12,14))
+fig = plt.figure(figsize = (15,6))
 #grid space to place figures
-
+grid = plt.GridSpec(1, 3, wspace=0.5, hspace=0.5)
 #basemap
-ax1 = fig.add_subplot(211, projection=ccrs.PlateCarree())
+ax1 = fig.add_subplot(grid[0,:2], projection=ccrs.PlateCarree())
 ax1.coastlines()
 #draw controuf map
 contf1 = ax1.contourf(lon,lat,prect_last_1kyr[0,:,:]-prect_1850_1980_ave,
@@ -102,17 +102,20 @@ ax1.xaxis.set_major_formatter(LongitudeFormatter())
 ax1.yaxis.set_major_formatter(LatitudeFormatter())
 ax1.set_title('Precipitation difference from the modern world (860 AD)', fontweight = 'bold', fontsize = 20  )
 
+
 ##plot ax2, temporal change of zonal average evaporation
-ax2 = fig.add_subplot(212)
+ax2 = fig.add_subplot(grid[0,2])
 t = 1950 + time_last_1kyr[0]*1000
-ax2.plot(lat, prect_zonal[0,:], linewidth=3.0, color = 'b', label='%.0f AD' %t)
-ax2.plot(lat, prect_1850_1980_zonal, linewidth = 3.0, color = 'r', linestyle = '--', label = '1850-1980 AD')
+ax2.plot(prect_zonal[0,:], lat, linewidth=3.0, color = 'b', linestyle = '--', label='%.0f AD' %t)
+ax2.plot(prect_1850_1980_zonal, lat, linewidth = 2.0, color = 'r',  label = '1850-1980 AD')
 #set ax2 format
-ax2.set_xlabel('°N',fontsize = 16)
+ax2.set_ylabel('°N',fontsize = 16)
 ax2.tick_params(labelsize=16) 
-ax2.set_ylabel("cm/year",fontsize = 16)
-ax2.set_ylim([0,240])
-ax2.legend(fontsize = 20)
+ax2.set_xlabel("cm/year",fontsize = 16)
+ax2.set_xlim([0,240])
+ax2.legend(fontsize = 12)
+ax2.set_title("""Zonal average 
+precipitation""" ,fontweight = 'bold', fontsize = 20 )
 
 #animate the plot with temporal change
 def animate(i): 
@@ -129,17 +132,17 @@ def animate(i):
     ax1.tick_params(axis='both', labelsize=20)
     ax1.xaxis.set_major_formatter(LongitudeFormatter())
     ax1.yaxis.set_major_formatter(LatitudeFormatter())
-    ax2.plot(lat, prect_zonal[i,:],linewidth=3.0, color = 'b', label='%.0f AD' %t)
-    ax2.plot(lat, prect_1850_1980_zonal, linewidth = 2.0, color = 'r', linestyle = '--', 
+    ax2.plot(prect_zonal[i,:], lat, linewidth=3.0, color = 'b', linestyle = '--', label='%.0f AD' %t)
+    ax2.plot(prect_1850_1980_zonal, lat, linewidth = 2.0, color = 'r', 
              label = '1850-1980 AD')
-    ax2.set_ylim([0,240])
-    ax2.legend(fontsize = 20)
+    ax2.set_xlim([0,240])
+    ax2.legend(fontsize = 12)
     ax2.set_xlabel('°N',fontsize = 16)
-    ax2.set_ylim([0,np.max(prect_zonal)+40])
     ax2.tick_params(labelsize=16) 
     ax2.set_ylabel("cm/year",fontsize = 16)
     ax1.set_title('Precipitation difference from the modern world (%.0f AD)' %t, fontweight = 'bold', fontsize = 20  )
-    ax2.set_title('Zonal average precipitation rate (%.0f AD)' %t,fontweight = 'bold', fontsize = 20 )
+    ax2.set_title("""Zonal average 
+precipitation""" ,fontweight = 'bold', fontsize = 20 )
     #plt.suptitle('%.2f ka BP' %t,fontsize = 30, y=0.92)
      
     
