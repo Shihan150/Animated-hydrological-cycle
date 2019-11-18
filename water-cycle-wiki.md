@@ -44,7 +44,6 @@ There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which
 |Biological Water|	1.11|	0.0001
 |Total	|1,385,984|	100.0
 
-<<<<<<< HEAD
 All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
 
 All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
