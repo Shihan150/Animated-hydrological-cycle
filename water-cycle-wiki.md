@@ -29,8 +29,8 @@ Within the relatively small range of air temperatures and pressures found at the
 There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which is saline and most of which exist in liquid form. [Fig. 2](#F2) and [Chart 1](#C1) provide an estimated quantitative description of where Earth's water exists. Oceans, which cover nearly 71% of the Earth’s surface area, are the dominant reservoir in the global water cycle, holding over 96.5% of the world's water (1.338 billion $km^3$). The number seems too large to imagine and we could use the Rhine river as a comparison: its annual flux is closely 100 $km^3$, which means, it takes around 14 million years for the Rhine river to fill up the ocean basins. Other water stores on Earth are much smaller. Glaciers and permanent snow cover contain 24.1 million $km^3$ of water, that is over 50 times less than the ocean volume. The third largest global water store is groundwater (23.4 million $km^3$), but more than half of groundwater is not fresh. 
 
 <br/>
-       <span id='C1'>Chart 1 Estimate of global water distribution[$^1$](#R1)
-
+       <span id='C1'>Chart 1 Estimate of global water distribution
+	
 |Reservoirs |Volume(1000 $km^3$)	|Pecentage|
 |:---:|:---:|:---:|	
 |Oceans, Seas, and Bays	|1,338,000|	96.5
@@ -45,8 +45,7 @@ There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which
 |Biological Water|	1.11|	0.0001
 |Total	|1,385,984|	100.0
 
-All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1)
-. These values are estimates, and future studies will lead refinement of these values.
+All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
 
 <span id='F2'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig2.png?raw=true)
 		Fig. 2 Global water distribution[$^1$](#R1). The arrows betoken that the elements in the next panel constitute the other reservoirs in the previous one.
