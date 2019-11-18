@@ -196,6 +196,7 @@ When 21 ka BP(ka BP, thousand years before 1950), Earth’s surface was totally 
 Similarly, let’s look at the general picture of global water cycle during LGM at first. Compared to modern world, the annual global precipitation and evaporation are around 8% lower. That means, the water cycle at that time took place at a slower velocity. The drop is mainly attributed to the changes in the ocean: annual evaporation in the ocean decreases from 410 to 377 ($10^3 km^3$). More than 90% of the evaporating water from oceans precipitates back onto oceans. While for the land, the volume of evaporation and precipitation is almost the same as that in modern world. 
 
 <center>Chart 4 Annual rough hydrologic balance during LGM</center>
+
 |    |P($10^3 km^3/year$)	|E($10^3 km^3/year$)	|P-E($10^3 km^3/year$)
 |:---:|:---:|:---:|:---:
 |Globe	|455	|455	|0
