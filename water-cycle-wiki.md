@@ -115,7 +115,7 @@ In general, the annual-mean evaporation pattern for the ocean is dominated by th
 
 After evaporation, water vapor can move with air parcel around the world. The amount of vapor that a volume of air can carry can be quantified by Clausius Clapeyron Equation:
 $$\frac {1} {e_s}  \frac{de_s}{T} = \frac{l_v}{R_v T^2 }$$ ,
-where $e_s$ is saturation vapor pressure above a liquid surface, $l_v$ is the enthalpy of vaporization (about 2.5×$10^6$ J), $R_v$ is the gas constant for water vapor (461.5 J kg${-1} K-1), and T is the absolute temperature (in unit K).
+where $e_s$ is saturation vapor pressure above a liquid surface, $l_v$ is the enthalpy of vaporization (about 2.5×$10^6$ J), $R_v$ is the gas constant for water vapor (461.5 J kg${-1}$ K-1), and T is the absolute temperature (in unit K).
 
 This equation tells us that the water vapor loading capacity of air depends on temperature significantly. For terrestrial conditions ($\frac {l_v}{(R_v T}$ ≈ 20), so that a 1% change in temperature, which is about 3°C, is associated with about a 20% change in saturation vapor pressure. 
 
