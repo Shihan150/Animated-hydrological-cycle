@@ -115,11 +115,11 @@ In general, the annual-mean evaporation pattern for the ocean is dominated by th
 
 After evaporation, water vapor can move with air parcel around the world. The amount of vapor that a volume of air can carry can be quantified by Clausius Clapeyron Equation:
 $$\frac {1} {e_s}  \frac{de_s}{T} = \frac{l_v}{R_v T^2 }$$ ,
-where $e_s$ is saturation vapor pressure above a liquid surface, $l_v$ is the enthalpy of vaporization (about 2.5×$10^6$ J), $R_v$ is the gas constant for water vapor (461.5 J kg${-1}$ K-1), and T is the absolute temperature (in unit K).
+where $e_s$ is saturation vapor pressure above a liquid surface, $l_v$ is the enthalpy of vaporization (about 2.5×$10^6$ J), $R_v$ is the gas constant for water vapor (461.5 J kg$^{-1}$ K$^{-1}$), and T is the absolute temperature (in unit K).
 
-This equation tells us that the water vapor loading capacity of air depends on temperature significantly. For terrestrial conditions ($\frac {l_v}{(R_v T}$ ≈ 20), so that a 1% change in temperature, which is about 3°C, is associated with about a 20% change in saturation vapor pressure. 
+This equation tells us that the water vapor loading capacity of air depends on temperature significantly. For terrestrial conditions ($\frac {l_v}{(R_v T}$ ≈ 20), a 1% change in temperature, which is about 3°C, is associated with about a 20% change in saturation vapor pressure. 
 
-When air parcel experiences expansion or cooling, its ability to carry water vapor will decline. In this case, we say the clouds are supersaturate and water vapor will condense on atmospheric particles, forming clouds. The clouds contain countless small drops of condensed water, which are too small to fall as precipitation. For precipitation to happen, first tiny water droplets must condense on even tinier dust, salt, or smoke particles, which act as a nucleus. Water droplets may grow as a result of additional condensation of water vapor when the particles collide. If enough collisions occur to produce a droplet with a fall velocity which exceeds the cloud updraft speed, then it will fall out of the cloud as precipitation. 
+When air parcel experiences expansion or cooling, its ability to carry water vapor will decline. In this case, we say the air is supersaturate and water vapor will condense on atmospheric particles, forming clouds. The clouds contain countless small drops of condensed water, which are too small to fall as precipitation. For precipitation to happen, first tiny water droplets must condense on even tinier dust, salt, or smoke particles, which act as a nucleus. Water droplets may grow as a result of additional condensation of water vapor when the particles collide. If enough collisions occur to produce a droplet with a fall velocity which exceeds the cloud updraft speed, then it will fall out of the cloud as precipitation. 
 
 
 <span id='F7'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_ave_1850_1980.png?raw=true)
@@ -148,7 +148,7 @@ Another noteworthy area is the western tropical pacific, where the annual mean s
 
 
 ### Regional P/E difference
-In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. The Indo-Pacific warm pool is the region which receives the largest freshwater input from the atmosphere annualy (more than 250 cm/year). This P/E difference distribution implies the net transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
+Almost all the continental areas are with a positive P/E balance. In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. The Indo-Pacific warm pool is the region which receives the largest freshwater input from the atmosphere annualy (more than 250 cm/year). This P/E difference distribution implies the net transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
 <span id='F10'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_minus_evap_ave_1850_1980.png?raw=true)
 		Fig. 10 Global and zonal distribution of annual P/E difference in modern world.
 
@@ -203,7 +203,7 @@ Similarly, let’s look at the general picture of global water cycle during LGM 
 #### Spatial and temporal characters
 [Fig.16b and 17b](#F16) shows that during LGM, the geographic distribution of evaporation and precipitation shares similar zonal patterns as that in modern world. Generally, for evaporation, the reduction can be seen in every latitude, with maximum in the tropical and subpolar zones and minimum in the subtropical and polar areas. The evaporation increase can be observed in ocean western boundary in subtropical areas and northern subpolar Pacific and Atlantic. In northern Atlantic and Pacific, extreme decrease occurs between two zones with evaporation increase: subtropical ocean western boundary and subpolar zones. 
 
-For precipitation major decrease takes place in the low (10ºN-10ºS) and then high latitudes (>40°), while in the other zones, the value almost keeps same as that in modern world. A small increase even can be seen in the southern subtropical areas. The most noticeable precipitation change takes place in the tropical Pacific ocean, where western and middle part experience the largest decrease and the eastern part the largest increase.  
+For precipitation major decrease takes place in the low (10ºN-10ºS) and then high latitudes (>40°), while in the other zones, the value almost keeps same as that in modern world. The largest decrease occurs in the Indo-Pacific warm pool and the northwestern Indian Ocean (by more than 80 cm/year). A small increase even can be seen in the southern subtropical areas. The most distinguished precipitation change takes place in the tropical Pacific Ocean, where western and middle part experience the largest decrease and the eastern part the largest increase (>80 cm/year).   
 
 <span id='F16'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_difference_LGM_to_modern_with_zonal.gif?raw=true)
 		Fig. 16 Global and zonal evaporation difference between LGM and the modern world.
