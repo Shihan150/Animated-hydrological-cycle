@@ -12,7 +12,6 @@ This article will describe the key processes and concepts in global water cycle,
 
 > Unless stated otherwise, all data from or calculated from [TraCE-21ka Simulation](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka') results
 
-
 ****
 
 
@@ -46,11 +45,11 @@ There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which
 |Total	|1,385,984|	100.0
 
 <<<<<<< HEAD
-All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1)
-. These values are estimates, and future studies will lead refinement of these values.
-=======
 All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
->>>>>>> fabe52171cc2a03977b2c13fe450fdea7e2be1bd
+
+All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
+
+
 
 <span id='F2'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig2.png?raw=true)
 		Fig. 2 Global water distribution[$^1$](#R1). The arrows betoken that the elements in the next panel constitute the other reservoirs in the previous one.
@@ -198,7 +197,6 @@ When 21 ka BP(ka BP, thousand years before 1950), Earth’s surface was totally 
 Similarly, let’s look at the general picture of global water cycle during LGM at first. Compared to modern world, the annual global precipitation and evaporation are around 8% lower. That means, the water cycle at that time took place at a slower velocity. The drop is mainly attributed to the changes in the ocean: annual evaporation in the ocean decreases from 410 to 377 ($10^3 km^3$). More than 90% of the evaporating water from oceans precipitates back onto oceans. While for the land, the volume of evaporation and precipitation is almost the same as that in modern world. 
 
 <center>Chart 4 Annual rough hydrologic balance during LGM</center>
-
 |    |P($10^3 km^3/year$)	|E($10^3 km^3/year$)	|P-E($10^3 km^3/year$)
 |:---:|:---:|:---:|:---:
 |Globe	|455	|455	|0
