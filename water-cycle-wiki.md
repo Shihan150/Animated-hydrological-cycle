@@ -106,9 +106,12 @@ Evaporation is the removal of water from the surface to the air with an accompan
 <span id='F6'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/evap_annual_seasonal_zonal_1850_1980.png?raw=true)
 		Fig. 6 a,b,c Geographic evaporation distribution for the boreal summer (JJA) (a), winter (DJF) (b) and the whole year(c). Zonal average distribution is shown in d. JJA and DJF stands for June, July, August and December, January, February respectively. More yellowish colors indicate the larger value and more bluish colors the smaller one. This colormap pattern apply for all the following figures. 
 	
-Seasonally, it is evident that oceanic evaporation in each hemisphere is intensified considerably during the wintertime. Such winter intensification is most pronounced over the regions of the Gulf Stream, the northern Indian ocean and Kuroshio ([Fig. 6a&b](#F6)), where the value of evaporation exceeds 300 cm/year in winter but is less than 135 cm/year in summer. The main reason is that the surface air in winter for these regions mainly come from the continent, which is very cold and dry, so the surface evaporation is reinforced.
+Seasonally, it is evident that oceanic evaporation in each hemisphere is intensified considerably during the wintertime. Such winter intensification is most pronounced over the regions of the Gulf Stream, the northern Indian ocean and Kuroshio ([Fig. 6a&b](#F6)), where the value of evaporation exceeds 300 cm/year in winter but is less than 135 cm/year in summer. The main reason is that the surface air in winter for these regions mainly come from the continent, which is very cold and dry, so the surface evaporation is reinforced. This pattern can be identified more clearly from the monthly average precipitation change ([Fig. 7](#F7)).
 
 The continent shows opposed seasonal feature. For continents ca. from 20° to 60° in both hemispheres, the evaporation is obviously stronger during summer time. Let’s take the southern African continent as an example, the value of evaporation is almost all above 160 cm/year in summer but only less 76 cm/year in winter. We can also see some areas with the weak evaporation through the whole year, including Sahara Desert, the Middle East, western coast of the USA and high-latitude zones.
+
+<span id='F7'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_modern_monthly_with_zonal.gif?raw=true)
+		Fig. 7  Geographic and zonal distribution of monthly mean evaporation. 
 
 In general, the annual-mean evaporation pattern for the ocean is dominated by the winter pattern and for the continent, by the summer pattern, of each hemisphere.
 
@@ -124,40 +127,42 @@ This equation tells us that the water vapor loading capacity of air depends on t
 When air parcel experiences expansion or cooling, its ability to carry water vapor will decline. In this case, we say the air is supersaturate and water vapor will condense on atmospheric particles, forming clouds. The clouds contain countless small drops of condensed water, which are too small to fall as precipitation. For precipitation to happen, first tiny water droplets must condense on even tinier dust, salt, or smoke particles, which act as a nucleus. Water droplets may grow as a result of additional condensation of water vapor when the particles collide. If enough collisions occur to produce a droplet with a fall velocity which exceeds the cloud updraft speed, then it will fall out of the cloud as precipitation. 
 
 
-<span id='F7'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_ave_1850_1980.png?raw=true)
-		Fig. 7  Geographic and zonal distribution of annual mean precipitation. 
+<span id='F8'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_ave_1850_1980.png?raw=true)
+		Fig. 8  Geographic and zonal distribution of annual mean precipitation. 
 
-The general features of the zonal-average precipitation in [Fig. 7](#F7) are also apparent, with the largest precipitation (>200 cm/year zonally, >400cm cm/year in western tropical Pacific Ocean) near the equator, where the average water content of the air is high. In the subtropics convection and precipitation are suppressed by the downward mean air motion that characterizes this region[$^4$](#R4). In these latitudes precipitation is at a minimum (ca. 50cm/year). In midlatitudes precipitation increases again. The forced ascent of moist surface air in midlatitude weather systems and the westerly flow over obstacles such as the Rocky Mountains give rise to heavy precipitation. In the polar regions, precipitation decreases. The entire hydrologic cycle is slowed down in polar regions because of the low temperatures and consequently low water-carrying capacity of the atmosphere.
+The general features of the zonal-average precipitation in [Fig. 8](#F8) are also apparent, with the largest precipitation (>200 cm/year zonally, >400cm cm/year in western tropical Pacific Ocean) near the equator, where the average water content of the air is high. In the subtropics convection and precipitation are suppressed by the downward mean air motion that characterizes this region[$^4$](#R4). In these latitudes precipitation is at a minimum (ca. 50cm/year). In midlatitudes precipitation increases again. The forced ascent of moist surface air in midlatitude weather systems and the westerly flow over obstacles such as the Rocky Mountains give rise to heavy precipitation. In the polar regions, precipitation decreases. The entire hydrologic cycle is slowed down in polar regions because of the low temperatures and consequently low water-carrying capacity of the atmosphere.
 
 Generally speaking, precipitation is most abundant where air rises (e.g. tropical and midlatitude zones, the windward slope of the Tibet Plateau and the Rocky Mountains) and least abundant where it sinks (e.g. subtropical zones and the leeward slopes of huge mountains). It also tends to be greater near oceans and lakes, and in higher elevations.
 
 
 #### ITCZ and monsoon
-From [Fig. 7](#F7), we see that rainfall on Earth is most intense near the equator[$^5$](#R5). This narrow belt is called intertropical convergence zone (ITCZ). It is a belt of low pressure where the trade winds of the Northern and Southern Hemispheres come together ([Fig. 8](#F8)). As these winds converge, moist air is forced upward, rises and cools, causing water vapor to be "squeezed" out and resulting heavy precipitation. The location of ITCZ migrated seasonally to the warmer hemisphere ([Fig. 9](#F9)): In boreal summer, over the Atlantic and Pacific, the ITCZ is between 5 and 15 degrees north of the Equator, but further north over Africa and Asia. In eastern Asia, the ITCZ may reach 30°N. While in boreal winter, over the Atlantic, the ITCZ generally sits no further south than the Equator, but extends much further south over the land masses of South America, Southern Africa, and Australia.  
+From [Fig. 8](#F8), we see that rainfall on Earth is most intense near the equator[$^5$](#R5). This narrow belt is called intertropical convergence zone (ITCZ). It is a belt of low pressure where the trade winds of the Northern and Southern Hemispheres come together ([Fig. 9](#F9)). As these winds converge, moist air is forced upward, rises and cools, causing water vapor to be "squeezed" out and resulting heavy precipitation. The location of ITCZ migrated seasonally to the warmer hemisphere ([Fig. 10](#F10)): In boreal summer, over the Atlantic and Pacific, the ITCZ is between 5 and 15 degrees north of the Equator, but further north over Africa and Asia. In eastern Asia, the ITCZ may reach 30°N. While in boreal winter, over the Atlantic, the ITCZ generally sits no further south than the Equator, but extends much further south over the land masses of South America, Southern Africa, and Australia.  
 
-We could imagine that, some tropical zones where ITCZ migrates through annually, will experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
+[Fig. 11](#F11) shows that, as the ITCZ migrates seasonally, some tropical zones experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
 
-<span id='F8'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/surface_layer_temperature_wind_field_1850_1980.png?raw=true)
-		Fig. 8 Mean sea surface temperature distribution map with wind velocity vector superposed. The direction and length of arrows demonstrate the wind direction and velocity.
+<span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/surface_layer_temperature_wind_field_1850_1980.png?raw=true)
+		Fig. 9 Mean sea surface temperature distribution map with wind velocity vector superposed. The direction and length of arrows demonstrate the wind direction and velocity.
 
-During the winter phase of the monsoon, there is a low-level flow of dry, cool air from the cold continent to warmer ocean, and precipitation over the land is light. During summer, there is a flow of atmospheric moisture from the tropical ocean to the warmer land, where the upward motion of the heated air produces the heavy rains of the monsoon season ([Fig. 9](#F9)). The Asian-Australian monsoon system is the most dominant monsoon circulation of the earth, where the summer-winter precipitation difference can reach more than 300 cm/year and monsoon areas extend furthest northward in east Asia (to around 30°N) . Such monsoon-type circulations also occur over west Africa and portions of Mexico and Central America. It’s also interesting to note that similar but less pronounced precipitation oscillation can also be observed in tropical ocean areas, which are far from the continents.  
+During the winter phase of the monsoon, there is a low-level flow of dry, cool air from the cold continent to warmer ocean, and precipitation over the land is light. During summer, there is a flow of atmospheric moisture from the tropical ocean to the warmer land, where the upward motion of the heated air produces the heavy rains of the monsoon season ([Fig. 10](#F10)). The Asian-Australian monsoon system is the most dominant monsoon circulation of the earth, where the summer-winter precipitation difference can reach more than 300 cm/year and monsoon areas extend furthest northward in east Asia (to around 30°N) . Such monsoon-type circulations also occur over west Africa and portions of Mexico and Central America. It’s also interesting to note that similar but less pronounced precipitation oscillation can also be observed in tropical ocean areas, which are far from the continents.  
 
-<span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_plus_wind_field_1850_1980.png?raw=true)
-		Fig. 9 Geographic and zonal distribution of mean precipitation for the boreal summer (JJA) and winter (DJF). 
+<span id='F10'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_plus_wind_field_1850_1980.png?raw=true)
+		Fig. 10 Geographic and zonal distribution of mean precipitation for the boreal summer (JJA) and winter (DJF). 
+<span id='F11'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_modern_monthly_with_zonal.gif?raw=true)
+		Fig. 11  Geographic and zonal distribution of monthly mean evaporation. 
 
 ####  Indo-Pacific warm pool
-Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest 			(>28°C, [Fig. 8](#F8)). This area is called  Indo-Pacific warm pool. Intensive precipitation and evaporation also take 	place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is an important source to drive the atmospheric circulation and thereby the water cycle as well. 
+Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest 			(>28°C, [Fig. 9](#F9)). This area is called  Indo-Pacific warm pool. Intensive precipitation and evaporation also take place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is an important source to drive the atmospheric circulation and thereby the water cycle as well. 
 
 
 ### Regional P/E difference
-Almost all the continental areas are with a positive P/E balance. In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. The Indo-Pacific warm pool is the region which receives the largest freshwater input from the atmosphere annualy (more than 250 cm/year). This P/E difference distribution implies the net transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
-<span id='F10'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_minus_evap_ave_1850_1980.png?raw=true)
-		Fig. 10 Global and zonal distribution of annual P/E difference in modern world.
+Almost all the continental areas are with a positive P/E balance ([Fig. 12](#F12). In the meridional direction, evaporation exceeds precipitation in the belt from 15 to 40 degrees of latitude, and these regions export water vapor to be condensed in the latitudes where the precipitation maxima occur. The Indo-Pacific warm pool is the region which receives the largest freshwater input from the atmosphere annualy (more than 250 cm/year). This P/E difference distribution implies the net transport of water vapor in the atmosphere from the subtropics to the equatorial and high latitude zones. A return flow in the oceans or rivers carries water back toward the subtropics.
+<span id='F12'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_minus_evap_ave_1850_1980.png?raw=true)
+		Fig. 12 Global and zonal distribution of annual P/E difference in modern world.
 
-In the zonal direction, it seems that the dominant trend in the Atlantic Ocean is the net water loss. To confirm this conjuration, we use other climatic datasets to calculate the surface water balance over the major ocean basins ([Chart 3](#C3)). The results show that there is a negative imbalance of fresh water in the Atlantic region and this imbalance can only be partly compensated by the continental runoff. The vapor loss results in the enrichment of salt in Atlantic Ocean. [Fig. 11](#F11) shows that, at the same latitudes, Atlantic is saltier than Pacific. Had the salt buildup not been compensated, the Atlantic's salinity would have increased gradually. Obviously, this cannot have been the case. Therefore, there must be some pathway to compensate the freshwater loss and the salt buildup taking place in Atlantic. 
+In the zonal direction, it seems that the dominant trend in the Atlantic Ocean is the net water loss. To confirm this conjuration, we use other climatic datasets to calculate the surface water balance over the major ocean basins ([Chart 3](#C3)). The results show that there is a negative imbalance of fresh water in the Atlantic region and this imbalance can only be partly compensated by the continental runoff. The vapor loss results in the enrichment of salt in Atlantic Ocean. [Fig. 13](#F13) shows that, at the same latitudes, Atlantic is saltier than Pacific. Had the salt buildup not been compensated, the Atlantic's salinity would have increased gradually. Obviously, this cannot have been the case. Therefore, there must be some pathway to compensate the freshwater loss and the salt buildup taking place in Atlantic. 
 
-<span id='F11'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/salinity_ave_1850_1980.png?raw=true)
-		Fig. 11 Global sea surface salinity map.
+<span id='F13'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/salinity_ave_1850_1980.png?raw=true)
+		Fig. 13 Global sea surface salinity map.
 
 
 <span id='C3'>Chart 3  Water budget for different ocean basins
@@ -167,27 +172,27 @@ In the zonal direction, it seems that the dominant trend in the Atlantic Ocean i
 |Pacific Ocean	|228.7|	233.7|	14.8|	9.8|
 |Atlantic Ocean|	80|	102.7|	20	|-2.7|
 
-Scientists do find such a pathway. The streamfunction map can tell us the net water flux and direction between any two points in the map. The water flux equates the difference between two streamline values and the direction is the right angle from the larger value to the smaller one. [Fig. 12](#F12) shows that, surface Atlantic water (fresher) flows northward and deep part (saltier) southward, and it’s exactly the opposite for the Pacific. 
+Scientists do find such a pathway. The streamfunction map can tell us the net water flux and direction between any two points in the map. The water flux equates the difference between two streamline values and the direction is the right angle from the larger value to the smaller one. [Fig. 14](#F14) shows that, surface Atlantic water (fresher) flows northward and deep part (saltier) southward, and it’s exactly the opposite for the Pacific. 
 
 
-<span id='F12'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/moc_1850_1980.jpg?raw=true)
-		Fig. 12 Annual-mean streamfunction (Sv) in Atlantic (left) and Pacific (right) ocean averaged over 1850 to 1980 AD.
+<span id='F14'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/moc_1850_1980.jpg?raw=true)
+		Fig. 14 Annual-mean streamfunction (Sv) in Atlantic (left) and Pacific (right) ocean averaged over 1850 to 1980 AD.
 
-The water movement in the Atlantic and Pacific is the component of a global-scale circulation, which is called the great ocean conveyor (Fig. 13). The conveyor belt transfers warm water from the Pacific Ocean to the Atlantic as a shallow current and returns cold water from the Atlantic to the Pacific as a deep current. Beginning in the central Pacific, it travels past the north coast of Australia and around the southern tip of Africa before moving up into the Atlantic. By the time it arrives the northern Atlantic and passes Europe, the surface water evaporates and the ocean water cools, releasing heat to the atmosphere. As the water becomes colder, it becomes dense enough to sink into depth. The deep water slowly travels south through the oceanic abyss, eventually mixing upward to the surface in different parts of the world. The whole process takes 1-2 thousand years.
+The water movement in the Atlantic and Pacific is the component of a global-scale circulation, which is called the great ocean conveyor ([Fig. 15](#F15)). The conveyor belt transfers warm water from the Pacific Ocean to the Atlantic as a shallow current and returns cold water from the Atlantic to the Pacific as a deep current. Beginning in the central Pacific, it travels past the north coast of Australia and around the southern tip of Africa before moving up into the Atlantic. By the time it arrives the northern Atlantic and passes Europe, the surface water evaporates and the ocean water cools, releasing heat to the atmosphere. As the water becomes colder, it becomes dense enough to sink into depth. The deep water slowly travels south through the oceanic abyss, eventually mixing upward to the surface in different parts of the world. The whole process takes 1-2 thousand years.
 
-<span id='F13'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig13.jpg?raw=true)
-		Fig. 13 The cartoon diagram for depicting great ocean conveyor[$^8$](#R8).
+<span id='F15'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Fig13.jpg?raw=true)
+		Fig. 15 The cartoon diagram for depicting great ocean conveyor[$^8$](#R8).
 
 ## Water cycle in the past
 
 An important task for geoscientists is to look into the past and find how our earth evolves gradually. In this chapter we will discuss the features of water cycle during last 1000 years and Last Glacial Maximum (LGM).
 
 ### Last 1000 years: 850-1850AD
-Some regional drought or flood events can be identified during 850-1850 AD from [Fig. 14&15](#F14), however, from a larger scale, the hydrologic cycle is almost same as that in modern world. For evaporation, the northern Atlantic undergoes the oscillation regularly, ranging from <-40 to >20 cm/year. The precipitation varied much more frequently and the changes mainly concentrate on the tropical zones.
-<span id='F14'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_diff_last_1ka_with_zonal.gif?raw=true)
-		Fig. 14 Global and zonal evaporation difference between last 1000 years and the modern world.
-<span id='F15'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_last_1ka_with_zonal.gif?raw=true)
-		Fig. 15 Global and zonal prectipitation difference between last 1000 years and the modern world.
+Some regional drought or flood events can be identified during 850-1850 AD from [Fig. 16&17](#F16), however, from a larger scale, the hydrologic cycle is almost same as that in modern world. For evaporation, the northern Atlantic undergoes the oscillation regularly, ranging from <-40 to >20 cm/year. The precipitation varied much more frequently and the changes mainly concentrate on the tropical zones.
+<span id='F16'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_diff_last_1ka_with_zonal.gif?raw=true)
+		Fig. 16 Global and zonal evaporation difference between last 1000 years and the modern world.
+<span id='F17'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_last_1ka_with_zonal.gif?raw=true)
+		Fig. 17 Global and zonal prectipitation difference between last 1000 years and the modern world.
 ### Last glacial maximum
 When 21 ka BP(ka BP, thousand years before 1950), Earth’s surface was totally different from its current appearance. The mean global surface temperature was around 3-4°C lower [$^9$](#R9). More water was stored in ice sheets, which covered Canada, the northern United States, northern Europe, and parts of Eurasia. As a consequence, global sea level was about 125 m lower, joining modern islands between Asia and Australia and connecting Britain to mainland Europe. In this world, water cycle also showed different features.
 	
@@ -195,6 +200,7 @@ When 21 ka BP(ka BP, thousand years before 1950), Earth’s surface was totally 
 Similarly, let’s look at the general picture of global water cycle during LGM at first. Compared to modern world, the annual global precipitation and evaporation are around 8% lower. That means, the water cycle at that time took place at a slower velocity. The drop is mainly attributed to the changes in the ocean: annual evaporation in the ocean decreases from 410 to 377 ($10^3 km^3$). More than 90% of the evaporating water from oceans precipitates back onto oceans. While for the land, the volume of evaporation and precipitation is almost the same as that in modern world. 
 
 <center>Chart 4 Annual rough hydrologic balance during LGM</center>
+
 |    |P($10^3 km^3/year$)	|E($10^3 km^3/year$)	|P-E($10^3 km^3/year$)
 |:---:|:---:|:---:|:---:
 |Globe	|455	|455	|0
