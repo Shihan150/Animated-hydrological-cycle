@@ -30,8 +30,13 @@ There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which
 <br/>
        <span id='C1'>Chart 1 Estimate of global water distribution[$^1$](#R1)
 	
-|Reservoirs |Volume(1000 $km^3$)	|Pecentage|
-|:---:|:---:|:---:|	
+
+| Reservoirs | Volume(1000 $km^3$) | Pecentage |
+| ---------- | ------------------- | --------- |
+|            |                     |           |
+| :---: | :---: | :---: |
+| ----- | ----- | ----- |
+|       |       |       |
 |Oceans, Seas, and Bays	|1,338,000|	96.5
 |Ice Caps, Glaciers, and <br> Permanent Snow	|24,064	|1.74
 |Groundwater	|23,400	|1.7
@@ -45,7 +50,6 @@ There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which
 |Total	|1,385,984|	100.0
 
 
-All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
 
 All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
 
@@ -97,7 +101,7 @@ Based on these data, we can get the hydrologic balance equations for globe, cont
 This rough division could help us build up a basic idea about water cycle, but at the same time, some key processes are omitted and spatial variation cannot be resolved either. Therefore, in the following texts, we will describe the key elements of water cycle in a coordinate system with smaller defined reservoirs.
 
 ### Evaporation
-Evaporation is the removal of water from the surface to the air with an accompanying change in phase from the liquid to the vapor form. You can imagine, the molecules in liquid water are held close together by attractive intermolecular forces ([Fig. 5](F5)). In water vapor the molecules are much farther apart than in the liquid phase, so the intermolecular force is very much smaller. During evaporation, work is done against the attractive intermolecular force, and energy is absorbed. Therefore, the evaporation rate is generally controlled by the availability of energy at the evaporating surface. Besides, the difference of water vapor pressure between the water surface and the adjacent air can also influence the evaporation rate. If the adjacent air is relatively drier, the condensation rate will decrease and net evaporation increase correspondingly. One of the climatic meaning for evaporation is that it accounts for about half of the cooling of the surface that balances the heating by absorption of solar radiation.
+Evaporation is the removal of water from the surface to the air with an accompanying change in phase from the liquid to the vapor form. You can imagine, the molecules in liquid water are held close together by attractive intermolecular forces ([Fig. 5](#F5)). In water vapor the molecules are much farther apart than in the liquid phase, so the intermolecular force is very much smaller. During evaporation, work is done against the attractive intermolecular force, and energy is absorbed. Therefore, the evaporation rate is generally controlled by the availability of energy at the evaporating surface. Besides, the difference of water vapor pressure between the water surface and the adjacent air can also influence the evaporation rate. If the adjacent air is relatively drier, the condensation rate will decrease and net evaporation increase correspondingly. One of the climatic meaning for evaporation is that it accounts for about half of the cooling of the surface that balances the heating by absorption of solar radiation.
 
 ![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/Figure5.jpg?raw=true)
 		<span id='F5'>Fig. 5 Cartoonish diagram showing the molecular exchange between liquid water and atmosphere[$^2$](#R2)
@@ -108,7 +112,7 @@ Evaporation is the removal of water from the surface to the air with an accompan
 <span id='F6'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/evap_annual_seasonal_zonal_1850_1980.png?raw=true)
 		Fig. 6 a,b,c Geographic evaporation distribution for the boreal summer (JJA) (a), winter (DJF) (b) and the whole year(c). Zonal average distribution is shown in d. JJA and DJF stands for June, July, August and December, January, February respectively. More yellowish colors indicate the larger value and more bluish colors the smaller one. This colormap pattern apply for all the following figures. 
 	
-Seasonally, it is evident that oceanic evaporation in each hemisphere is intensified considerably during the wintertime. Such winter intensification is most pronounced over the regions of the Gulf Stream, the northern Indian ocean and Kuroshio (Fig. 6c&d), where the value of evaporation exceeds 300 cm/year in winter but is less than 135 cm/year in summer. The main reason is that the surface air in winter for these regions mainly come from the continent, which is very cold and dry, so the surface evaporation is reinforced.
+Seasonally, it is evident that oceanic evaporation in each hemisphere is intensified considerably during the wintertime. Such winter intensification is most pronounced over the regions of the Gulf Stream, the northern Indian ocean and Kuroshio ([Fig. 6a&b](#F6)), where the value of evaporation exceeds 300 cm/year in winter but is less than 135 cm/year in summer. The main reason is that the surface air in winter for these regions mainly come from the continent, which is very cold and dry, so the surface evaporation is reinforced.
 
 The continent shows opposed seasonal feature. For continents ca. from 20° to 60° in both hemispheres, the evaporation is obviously stronger during summer time. Let’s take the southern African continent as an example, the value of evaporation is almost all above 160 cm/year in summer but only less 76 cm/year in winter. We can also see some areas with the weak evaporation through the whole year, including Sahara Desert, the Middle East, western coast of the USA and high-latitude zones.
 
