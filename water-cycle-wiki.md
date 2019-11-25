@@ -1,6 +1,6 @@
 Water Cycle
 ===========================
-This article will describe the key processes and concepts in global water cycle, as well as its temporal changes in the past, which aims to stimulate your interest in relative scientific research.
+This article describes the key processes, concepts and temporal changes in the past of the global water cycle and aims to stimulate your interest in the relative scientific research.
 ****
 
 |	|	|
@@ -10,13 +10,13 @@ This article will describe the key processes and concepts in global water cycle,
 |Advisor|Dr. André Paul
 |Institution|Geoscience faculty, Universitaet Bremen
 
-> Unless stated otherwise, all data from or calculated from [TraCE-21ka Simulation](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka') results
+> Unless stated otherwise, all data are from or calculated from [TraCE-21ka Simulation](http://www.cgd.ucar.edu/ccr/TraCE/ 'TraCE-21ka') results
 
 ****
 
 
 ## Introduction
-As you can imagine, water is everywhere. Actually, around half of your body weight is composed of water. In natural world, water the main substance in the oceans. It also exists in the air as water vapor, in rivers and lakes, in icecaps and glaciers, in the ground as soil moisture and in aquifers, and you even could find water in rocks. Water is such a common stuff in our daily life that we may forget its importance sometimes. It’s easy to understand that water is essential for living body to function well and keep alive, but have you ever imagined that water even exerts a profound influence in climate system? In fact, water is so special and our earth would not be habitable without its existence. <br>
+As you can imagine, water is everywhere. Actually, about half of your body weight is composed of water. In natural world, water is the main substance in the oceans. It also exists in the air as water vapor, in rivers and lakes, in icecaps and glaciers, in the ground as soil moisture and in aquifers. You even could find water in rocks. Water is such a common stuff in our daily life that we may overlook its importance sometimes. Not only is water an essential solution to maintain all biological organisms' lives and functions, it affects profoundly the climate system. In fact, water is so special and our earth would not be habitable without its existence.  <br>
 
 Within the relatively small range of air temperatures and pressures found at the Earth’s surface, water is the only known substance that can naturally exist in three phases: as a gas, a liquid, and solid ([Fig. 1](#F1)). When water undergoes phase changes, it’s accompanied by energy transfer. Together with the large heat capacity, water acts as the thermostat for the surface earth: prevent it from extreme coldness or warmth. Earth's water is always in movement, and now, this article hopes to give you some insights about the journey of water in a relatively scientific and quantitative way.
 
@@ -44,7 +44,6 @@ There are about 1.385 billion $km^3$ of water on Earth, over 96 percent of which
 |Biological Water|	1.11|	0.0001
 |Total	|1,385,984|	100.0
 
-All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
 
 All the lakes on Earth contain 176,400 $km^3$ of water and approximately 16,500 $km^3$ of water is stored in the soil, while all the rivers of the world carry, on average, in any time instant about 2120 $km^3$ of water. In contrast, the atmosphere holds only 0.001% (12,900 $km^3$) and swamp about 11 500 $km^3$ of water. A small amount of biological water (1110 $km^3$) remains fixed in the living tissues of plants and animals. All the data cited here are taken from the work edited by Gleick in 1996[$^1$](#R1). These values are estimates, and future studies will lead refinement of these values.
 
@@ -204,19 +203,19 @@ Similarly, let’s look at the general picture of global water cycle during LGM 
 |Ocean	|332	|377	|-45
 
 #### Spatial and temporal characters
-[Fig.16b and 17b](#F16) shows that during LGM, the geographic distribution of evaporation and precipitation shares similar zonal patterns as that in modern world. Generally, for evaporation, the reduction can be seen in every latitude, with maximum in the tropical and subpolar zones and minimum in the subtropical and polar areas. The evaporation increase can be observed in ocean western boundary in subtropical areas and northern subpolar Pacific and Atlantic. In northern Atlantic and Pacific, extreme decrease occurs between two zones with evaporation increase: subtropical ocean western boundary and subpolar zones. 
+[Fig.18b and 19b](#F18) shows that during LGM, the geographic distribution of evaporation and precipitation shares similar zonal patterns as that in modern world. Generally, for evaporation, the reduction can be seen in every latitude, with maximum in the tropical and subpolar zones and minimum in the subtropical and polar areas. The evaporation increase can be observed in ocean western boundary in subtropical areas and northern subpolar Pacific and Atlantic. In northern Atlantic and Pacific, extreme decrease occurs between two zones with evaporation increase: subtropical ocean western boundary and subpolar zones. 
 
 For precipitation major decrease takes place in the low (10ºN-10ºS) and then high latitudes (>40°), while in the other zones, the value almost keeps same as that in modern world. The largest decrease occurs in the Indo-Pacific warm pool and the northwestern Indian Ocean (by more than 80 cm/year). A small increase even can be seen in the southern subtropical areas. The most distinguished precipitation change takes place in the tropical Pacific Ocean, where western and middle part experience the largest decrease and the eastern part the largest increase (>80 cm/year).   
 
-<span id='F16'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_difference_LGM_to_modern_with_zonal.gif?raw=true)
-		Fig. 16 Global and zonal evaporation difference between LGM and the modern world.
-<span id='F17'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_LGM_modern_difference_with_zonal.gif?raw=true)
-		Fig. 17 Global and zonal precipitation difference between LGM and the modern world.
+<span id='F18'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/qflx_difference_LGM_to_modern_with_zonal.gif?raw=true)
+		Fig. 18 Global and zonal evaporation difference between LGM and the modern world.
+<span id='F19'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_LGM_modern_difference_with_zonal.gif?raw=true)
+		Fig. 19 Global and zonal precipitation difference between LGM and the modern world.
 	
-Seasonally, the changes of seasonal precipitation contrast ([Fig. 18](#F18)) is calculated by the formula: 
+Seasonally, the changes of seasonal precipitation contrast ([Fig. 20](#F20)) is calculated by the formula: 
 $$\vert{P(JJA, LGM) - P(DJF, modern)}\vert - \vert{P(JJA, modern) - P(DJF, modern)}\vert$$ 
 It is evident that the seasonal precipitation difference over most of continental monsoon areas decreased during LGM. The maximum decline occurs over the South Asia, where the value reaches -144 to -180 cm/year. The eastern coast of South Amecica and some areas in Sub-Saharan Africa are exceptions and underwent the intensified seasonal precipitation changes during LGM. This kind of intensification can also be seen in some tropical oceanic areas, especially the Indian Ocean and the eastern Pacific Ocean. At 30°-40°N, it's interesting to see the converse situations in the eastern (decrease) and western part (amplification) of Atlantic Ocean.
-<span id='F18'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/changes_prect_seasonal_lgm_modern_difference.gif?raw=true)
+<span id='F20'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/changes_prect_seasonal_lgm_modern_difference.gif?raw=true)
 Fig. 18 The changes of seasonal precipitation difference between LGM and the modern world. 
 ## Annotation
 <span id='R1'>[1] Data source: Igor Shiklomanov's chapter "World fresh water resources" in Peter H. Gleick (editor), 1993, Water in Crisis: A Guide to the World's Fresh Water Resources (Oxford University Press, New York).<br>
