@@ -138,20 +138,20 @@ Generally speaking, precipitation is most abundant where air rises (e.g. tropica
 #### ITCZ and monsoon
 From [Fig. 8](#F8), we see that rainfall on Earth is most intense near the equator[$^5$](#R5). This narrow belt is called intertropical convergence zone (ITCZ). It is a belt of low pressure where the trade winds of the Northern and Southern Hemispheres come together ([Fig. 9](#F9)). As these winds converge, moist air is forced upward, rises and cools, causing water vapor to be "squeezed" out and resulting heavy precipitation. The location of ITCZ migrated seasonally to the warmer hemisphere ([Fig. 10](#F10)): In boreal summer, over the Atlantic and Pacific, the ITCZ is between 5 and 15 degrees north of the Equator, but further north over Africa and Asia. In eastern Asia, the ITCZ may reach 30°N. While in boreal winter, over the Atlantic, the ITCZ generally sits no further south than the Equator, but extends much further south over the land masses of South America, Southern Africa, and Australia.  
 
-[Fig. 12](#12) shows that, as the ITCZ migrates seasonally, some tropical zones experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
+[Fig. 11](#11) shows that, as the ITCZ migrates seasonally, some tropical zones experience seasonal precipitation change. On the other hand, since the heat capacity of the continent is small compared with that of the upper ocean, the amplitude of the annual cycle in land surface temperatures is far greater than that occurring in tropical sea surface temperature. Therefore, these zones can also experience seasonal reverse of dominant wind direction. Such seasonal changes in atmospheric circulation and precipitation are called monsoon. 
 
-<span id='F10'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/surface_layer_temperature_wind_field_1850_1980.png?raw=true)
-		Fig. 10 Mean sea surface temperature distribution map with wind velocity vector superposed. The direction and length of arrows demonstrate the wind direction and velocity.
+<span id='F9'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/surface_layer_temperature_wind_field_1850_1980.png?raw=true)
+		Fig. 9 Mean sea surface temperature distribution map with wind velocity vector superposed. The direction and length of arrows demonstrate the wind direction and velocity.
 
 During the winter phase of the monsoon, there is a low-level flow of dry, cool air from the cold continent to warmer ocean, and precipitation over the land is light. During summer, there is a flow of atmospheric moisture from the tropical ocean to the warmer land, where the upward motion of the heated air produces the heavy rains of the monsoon season ([Fig. 11](#F11)). The Asian-Australian monsoon system is the most dominant monsoon circulation of the earth, where the summer-winter precipitation difference can reach more than 300 cm/year and monsoon areas extend furthest northward in east Asia (to around 30°N) . Such monsoon-type circulations also occur over west Africa and portions of Mexico and Central America. It’s also interesting to note that similar but less pronounced precipitation oscillation can also be observed in tropical ocean areas, which are far from the continents.  
 
-<span id='F11'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_plus_wind_field_1850_1980.png?raw=true)
-		Fig. 11 Geographic and zonal distribution of mean precipitation for the boreal summer (JJA) and winter (DJF). 
-<span id='F12'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_modern_monthly_with_zonal.gif?raw=true)
-		Fig. 12  Geographic and zonal distribution of monthly mean evaporation. 
+<span id='F10'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/seasonal_prect_ave_plus_wind_field_1850_1980.png?raw=true)
+		Fig. 10 Geographic and zonal distribution of mean precipitation for the boreal summer (JJA) and winter (DJF). 
+<span id='F11'>![](https://github.com/Shihan150/shihan.github.io/blob/master/figures/prect_modern_monthly_with_zonal.gif?raw=true)
+		Fig. 11  Geographic and zonal distribution of monthly mean evaporation. 
 
 ####  Indo-Pacific warm pool
-Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest 			(>28°C, [Fig. 10](#F10)). This area is called  Indo-Pacific warm pool. Intensive precipitation and evaporation also take place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is an important source to drive the atmospheric circulation and thereby the water cycle as well. 
+Another noteworthy area is the western tropical pacific, where the annual mean sea surface temperature in highest 			(>28°C, [Fig. 9](#F9)). This area is called  Indo-Pacific warm pool. Intensive precipitation and evaporation also take place here. Since these hydrologic processes are accompanied with large amount of energy transfer, the warm pool zone is an important source to drive the atmospheric circulation and thereby the water cycle as well. 
 
 
 ### Regional P/E difference
