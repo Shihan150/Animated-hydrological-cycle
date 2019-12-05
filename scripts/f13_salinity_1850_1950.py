@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
 import cartopy
 from cartopy.mpl.ticker import LongitudeFormatter, LatitudeFormatter
+import cmocean
 #readdata function
 from netCDF4 import Dataset
 def readdata(file_name):
@@ -52,6 +53,7 @@ def static_plot(time_index, key_variable, lat, lon,
     contf = ax1.contourf(lon,lat,key_variable_ave, 
                          levels = np.linspace(lower_limitation, upper_limitation,61),
                          extend = 'both',
+                         cmap = cmocean.cm.haline,
                          transform=ccrs.PlateCarree())
     cont = ax1.contour(lon,lat,key_variable_ave, levels = (34,36,37), linewidths =2, 
                        colors = ['0.75','0.85','0.95'],

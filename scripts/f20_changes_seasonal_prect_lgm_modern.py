@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
 from cartopy.mpl.ticker import LongitudeFormatter, LatitudeFormatter
 from matplotlib import animation
+import cmocean
 #readdata function
 from netCDF4 import Dataset
 def readdata(file_name):
@@ -101,6 +102,7 @@ ax1.coastlines()
 contf1 = ax1.contourf(lon,lat,prect_changes_seasonal_prect_diff[0,:,:],
                       levels = np.linspace(lower_limitation,upper_limitation,61),
                       extend = 'both',
+                      cmap = cmocean.cm.balance,
                       projection=ccrs.PlateCarree())
 #add colorbar
 cb1 = fig.colorbar(contf1, ticks = np.linspace(lower_limitation, upper_limitation, 11),  
@@ -122,6 +124,7 @@ def animate(i):
     #plot ax1.controuf map
     contf1 = ax1.contourf(lon,lat,prect_changes_seasonal_prect_diff[i*5,:,:], 
                       levels = np.linspace(lower_limitation,upper_limitation,61),
+                      cmap = cmocean.cm.balance,
                       extend = 'both',
                       projection=ccrs.PlateCarree())
     #set title for ax1

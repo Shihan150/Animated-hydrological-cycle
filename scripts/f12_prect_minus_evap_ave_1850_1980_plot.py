@@ -8,11 +8,12 @@ plot the average distribution of surface P/E difference
 
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib import animation
 import cartopy.crs as ccrs
 from cartopy.mpl.ticker import LongitudeFormatter, LatitudeFormatter
 #readdata function
 from netCDF4 import Dataset
+import cmocean
+
 def readdata(file_name):
     file_path_re = r'C:\Users\59506\Desktop\plot\atmosphere'
     b = '/'
@@ -41,8 +42,8 @@ def static_plot(time_index, key_variable, lat, lon,
         for j in range(len(lat)):
             key_variable_zonal[i,j] = np.mean(key_variable_in_interval[i,j,:])
     
-    upper_limitation = 250
-    lower_limitation = -150
+    upper_limitation = 200
+    lower_limitation = -200
     
     #start ploting
     fig = plt.figure(figsize = figsize)
@@ -52,7 +53,9 @@ def static_plot(time_index, key_variable, lat, lon,
     ax1.coastlines()
     #plot ax1.controuf map
     contf = ax1.contourf(lon,lat,key_variable_ave, levels = np.linspace(lower_limitation,upper_limitation,41),
-                      extend = 'both', projection=ccrs.PlateCarree())
+                      extend = 'both', 
+                      cmap = cmocean.cm.diff,
+                      projection=ccrs.PlateCarree())
     cont = ax1.contour(lon,lat,key_variable_ave, levels = 0, linewidths =2, colors = 'r',
                   projection=ccrs.PlateCarree())
     ax1.clabel(cont, cont.levels, fmt = '%.0f', fontsize = 20)

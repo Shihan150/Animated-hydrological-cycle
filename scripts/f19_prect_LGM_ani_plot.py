@@ -94,6 +94,7 @@ upper_limitation = np.max(prect_lgm)
 contf1 = ax1.contourf(lon,lat,prect_lgm[0,:,:]-prect_1850_1980_ave,
                       levels = np.linspace(-100,100,51),
                       extend = 'both',
+                      cmap = cmocean.cm.balance,
                       projection=ccrs.PlateCarree())
 #add colorbar
 cb1 = fig.colorbar(contf1, ticks = np.linspace(-100,100,11),  
@@ -128,6 +129,7 @@ def animate(i):
     contf1 = ax1.contourf(lon,lat,prect_lgm[i*5,:,:]-prect_1850_1980_ave,
                           levels = np.linspace(-100,100,51),
                           extend = 'both',
+                          cmap = cmocean.cm.balance,
                           projection=ccrs.PlateCarree())
     ax1.coastlines()
     t = -time_lgm[i*5]

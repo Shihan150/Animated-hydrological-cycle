@@ -12,6 +12,7 @@ import cartopy.crs as ccrs
 from cartopy.mpl.ticker import LongitudeFormatter, LatitudeFormatter
 #readdata function
 from netCDF4 import Dataset
+import cmocean
 def readdata(file_name):
     file_path_re = r'C:\Users\59506\Desktop\plot\atmosphere'
     b = '/'
@@ -73,7 +74,7 @@ prect_1850_1980_zonal = np.mean(prect_1850_1980_ave,axis = 1)
 
 upper_limitation = 20
 lower_limitation = -40
-
+cmap = cmocean.tools.crop_by_percent(cmocean.cm.balance, 25, which='max')
 ## plot
 
 fig = plt.figure(figsize = (15,6))
@@ -86,6 +87,7 @@ ax1.coastlines()
 contf1 = ax1.contourf(lon,lat,prect_last_1kyr[0,:,:]-prect_1850_1980_ave,
                       levels = np.linspace(lower_limitation,upper_limitation,61),
                       extend = 'both',
+                      cmap = cmap,
                       projection=ccrs.PlateCarree())
 #add colorbar
 cb1 = fig.colorbar(contf1, ticks = np.linspace(lower_limitation,upper_limitation,11),  
@@ -124,6 +126,7 @@ def animate(i):
     contf1 = ax1.contourf(lon,lat,prect_last_1kyr[i*5,:,:]-prect_1850_1980_ave,
                           levels = np.linspace(lower_limitation,upper_limitation,61), 
                           extend = 'both',
+                          cmap = cmap,
                           projection=ccrs.PlateCarree())
     ax1.coastlines()
     t = 1950 + time_last_1kyr[i*5]*1000

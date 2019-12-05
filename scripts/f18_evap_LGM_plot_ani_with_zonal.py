@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 from matplotlib import animation
 import cartopy.crs as ccrs
 from cartopy.mpl.ticker import LongitudeFormatter, LatitudeFormatter
+import cmocean
 #readdata function
 from netCDF4 import Dataset
 def readdata(file_name):
@@ -75,7 +76,7 @@ for i in range(len(lat)):
 qflx_1850_1980_zonal = np.mean(qflx_1850_1980_ave,axis = 1)
 
 upper_limitation = 50
-
+cmap = cmocean.tools.crop_by_percent(cmocean.cm.balance, 25, which='max')
 ## plot
 
 fig = plt.figure(figsize = (15,6))
@@ -87,6 +88,7 @@ ax1.coastlines()
 #draw controuf map
 contf1 = ax1.contourf(lon,lat,qflx_lgm[0,:,:] - qflx_1850_1980_ave,
                       levels = np.linspace(-100,50,51), extend = 'both',
+                      cmap = cmap,
                       projection=ccrs.PlateCarree())
 #add colorbar
 cb1 = fig.colorbar(contf1, ticks = np.linspace(-100,50,11), 
@@ -119,6 +121,7 @@ def animate(i):
     ax2.clear()
     contf1 = ax1.contourf(lon,lat,qflx_lgm[i*10,:,:] - qflx_1850_1980_ave,
                           levels = np.linspace(-100,50,51), extend = 'both', 
+                          cmap = cmap,
                           projection=ccrs.PlateCarree())
     ax1.coastlines()
     t = -time_lgm[i*5]

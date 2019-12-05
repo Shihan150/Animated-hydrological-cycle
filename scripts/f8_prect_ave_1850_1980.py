@@ -6,6 +6,7 @@ Created on Fri Oct 25 11:04:34 2019
 plot the geographic distribution of average precipitation (1850-1980 AD)
 """
 #import packages
+import cmocean
 import numpy as np
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
@@ -55,6 +56,7 @@ def static_plot(time_index, key_variable, lat, lon,
     #plot ax1.controuf map
     contf = ax1.contourf(lon,lat,key_variable_ave, 
                          levels = np.linspace(lower_limitation,upper_limitation,41),
+                         cmap = cmocean.cm.rain,
                          extend = 'max',
                          projection=ccrs.PlateCarree())
     #set title for ax1
