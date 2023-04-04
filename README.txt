@@ -15,5 +15,5 @@ Credits:
 	Scripts:
 		Shihan Li
 
-Feel free to use any materials in this repository! Any questions, please contact through shihan@uni-bremen.de
+Feel free to use any materials in this repository! Any questions, please contact through shihan@tamu.edu
 		
